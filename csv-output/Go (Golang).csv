@@ -1,0 +1,9 @@
+Topic,Sub-Topic,Projects,Status
+Golang Fundamentals,"Setup, Variables, Data Types, Control Structures, Functions, Error Handling",,Yet to Start
+Working with Collections,"Arrays, Slices, Maps, Structs, Methods",,Yet to Start
+Concurrency Basics,"Goroutines, Channels, Mutexes, WaitGroups",,Yet to Start
+I/O & File Handling,"Reading/Writing Files, JSON & CSV Handling",,Yet to Start
+Web Development with Golang,"HTTP, REST APIs, Routing, Middleware",,Yet to Start
+Database Handling,"SQL, PostgreSQL, ORM (GORM), Migrations",,Yet to Start
+Advanced Golang Concepts,"Microservices, gRPC, Caching, Authentication",,Yet to Start
+Testing & Deployment,"Unit Testing, Benchmarking, Docker, CI/CD",,Yet to Start

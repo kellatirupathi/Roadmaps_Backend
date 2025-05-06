@@ -1,0 +1,13 @@
+Topics,Sub-topics,Project/App to Build,Status
+Introduction to MongoDB,"What is NoSQL
+MongoDB vs SQL
+Document Structure
+Collections & DBs
+Installing MongoDB
+MongoDB Compass & Shell","Create a document-based data model for an e-commerce app (products, users, orders) ",Yet to Start
+Querying & Aggregation,"Basic CRUD Operations
+Query Operators
+Filtering & Sorting
+Indexing
+Aggregation Pipeline
+$match and $group","Build a mini-reporting dashboard with aggregation queries (e.g., top-selling products, total revenue per user)",Yet to Start

@@ -1,0 +1,46 @@
+Topics,Sub-topics,Project/App to Build,Status
+Introduction to LLMs,"• What are LLMs 
+ • How LLMs work 
+ • Types of LLMs 
+ • Capabilities & limitations",Interactive LLM playground with different models,Yet to Start
+Prompt Engineering,"• Zero-shot 
+ • Few-shot 
+ • Chain-of-thought 
+ • System prompts 
+ • Prompt templates",Prompt template library for common tasks,Yet to Start
+LLM APIs & Integration,"• OpenAI API 
+ • Anthropic API 
+ • Hugging Face API 
+ • Error handling 
+ • Rate limiting",Multi-model chatbot with API fallbacks,Yet to Start
+AI Pair Programming,"• GitHub Copilot 
+ • Amazon CodeWhisperer 
+ • Cursor AI 
+ • Lovable
+ • Effective prompting for code",Build a web app using AI pair programming,Yet to Start
+Code Analysis & Refactoring,"• Code explanation 
+ • Automated refactoring 
+ • Code review 
+ • Test generation",Code review bot for GitHub PRs,Yet to Start
+Introduction to LangChain & Tools,"• Why orchestration is needed 
+ • Overview of LangChain, LlamaIndex, Haystack 
+ • Tool comparisons",No project – Conceptual overview,Yet to Start
+LangChain Fundamentals,"• Components & chains 
+ • Prompts & LLMs 
+ • Memory systems 
+ • Output parsers",Task-specific chain for data extraction,Yet to Start
+Retrieval Augmented Generation,"• Document processing 
+ • Vector databases 
+ • Embedding models 
+ • Retrieval strategies",Knowledge base Q&A system with your docs,Yet to Start
+Agent Systems (Detailed),"• Tool usage 
+ • ReAct framework 
+ • Planning & reasoning 
+ • Multi-agent systems",Research assistant agent with web search,Yet to Start
+Text-to-Image Generation,"• DALL·E 
+ • Stable Diffusion 
+ • Midjourney 
+ • Prompt techniques",Image generation API for product mockups,Yet to Start
+Text-to-Speech & Audio Generation,"• OpenAI TTS 
+ • ElevenLabs 
+ • Audio processing",Podcast generator from text content,Yet to Start

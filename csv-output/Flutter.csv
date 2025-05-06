@@ -1,0 +1,46 @@
+Topic,Sub-Topic,Projects,Status
+Dart & Flutter Basics,"Dart syntax
+Flutter SDK setup
+Git/GitHub basics
+DevTools",,Yet to Start
+UI Fundamentals,"Material/Cupertino widgets
+Responsive layouts (Row/Column/Stack)
+Theming",,Yet to Start
+Forms & Local Storage,"Form validation
+FlutterGen
+SharedPreferences
+Hive",,Yet to Start
+State Management (Riverpod)        ,"Riverpod basics
+Provider types
+StateNotifier
+Code Generation        ",,Yet to Start
+API Integration	,"REST with Dio
+JSON serialization
+Error handling
+Pagination	",,Yet to Start
+Supabase Auth & Security	,"Email/Google auth 
+JWT 
+Secure API calls 
+Role-based access	",,Yet to Start
+Backend Integration,"Supabase CRUD
+File uploads
+Realtime subscriptions
+Row-Level Security	",,Yet to Start
+Firebase & Push Notifications,"FCM setup
+Firebase Remote Config
+Analytics
+Cloud Functions        ",,Yet to Start
+Advanced UI & Animations,"Custom painters
+Hero/Opacity animations
+Slivers
+Responsive grids	",,Yet to Start
+Performance & Testing,"Flutter Inspector
+Memory profiling
+Unit/Widget/Integration tests	",,Yet to Start
+Offline-First Apps,"Caching with Isar/SQLite
+Connectivity checks
+Sync strategies	",,Yet to Start
+Capstone Project,"Full-stack app with Auth
+Payments (Stripe/Razorpay)
+Maps
+CI/CD Deployment	",,Yet to Start

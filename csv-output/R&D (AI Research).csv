@@ -1,0 +1,17 @@
+Topic,Sub-Topics,Projects,Status
+Foundations of AI Research & Setup,"- What is AI Research vs Applied ML
+- Key areas: NLP, CV, RL, Generative Models
+- Python ecosystem (NumPy, Pandas, Matplotlib)
+- Environment setup (Jupyter, Colab, GitHub)",,Yet to Start
+Model Building & Experimental Workflow,"- Model design using PyTorch/TensorFlow
+- Data preprocessing and augmentation
+- Training, validation, overfitting
+- Experiment tracking (e.g., with Weights & Biases)",,Yet to Start
+Literature Review & Reproducibility,"- Reading academic papers (arXiv, ACL Anthology)
+- How to review architectures and results
+- Reproducing a baseline paper
+- Open-source research repos (e.g., Hugging Face, PapersWithCode)",,Yet to Start
+Research Prototyping & Evaluation,"- Implementing modified models or training setups
+- Evaluating models with metrics (F1, BLEU, accuracy)
+- Visualizing results
+- Writing mini research reports",,Yet to Start

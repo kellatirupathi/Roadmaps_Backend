@@ -1,0 +1,18 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Environment Setup,"- What is Tauri and why it matters (vs Electron)
+- Prerequisites: Rust, Node.js, Cargo
+- Installing Tauri CLI
+- Initializing a Tauri project with React/Vite",,Yet to Start
+Tauri APIs and Frontend Integration,"- Calling Rust commands from JavaScript
+- Using invoke and tauri::command
+- Reading/Writing local files
+- Using dialog, notification, clipboard APIs",,Yet to Start
+State Management and Security,"- Managing global state in Tauri apps
+- Secure communication between frontend and backend
+- Using tauri.conf.json to restrict access
+- Understanding sidecar processes",,Yet to Start
+"Packaging, Deployment & Auto-update","- Building a production binary (Windows, macOS, Linux)
+- Code signing overview
+- Using tauri-build for bundling
+- Auto-update basics
+- Best practices for performance",,Yet to Start

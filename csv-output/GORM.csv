@@ -1,0 +1,15 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Basic CRUD Operations,"- What is GORM?
+- Installing GORM in a Go project
+- Setting up a connection to a PostgreSQL/MySQL/SQLite DB
+- Defining models with structs
+- Basic CRUD: Create, Read, Update, Delete",,Yet to Start
+Relationships & Query Building,"- One-to-One, One-to-Many, Many-to-Many relationships
+- Foreign keys and gorm:""constraint"" tags
+- Preloading related data
+- Querying with conditions, ordering, pagination",,Yet to Start
+"Migrations, Hooks & Best Practices","- AutoMigrate and schema updates
+- Model lifecycle hooks (BeforeSave, AfterCreate, etc.)
+- Transactions
+- Soft Deletes
+- GORM with Gin or Fiber for API integration",,Yet to Start

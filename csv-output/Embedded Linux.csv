@@ -1,0 +1,21 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to Embedded Linux Systems,"- What is Embedded Linux?
+- Linux vs RTOS
+- Architecture of Embedded Linux (Bootloader, Kernel, Root FS)
+- Hardware platforms (Raspberry Pi, BeagleBone)
+- Linux Distributions (Yocto, Buildroot, Raspbian)",,Yet to Start
+"Bootloaders, Kernel & Root Filesystem","- U-Boot basics and commands
+- Kernel configuration and compilation
+- Device tree overview
+- Creating minimal root filesystem
+- Init systems (Systemd, BusyBox)",,Yet to Start
+"Drivers, Shell & Process Management","- Writing simple device drivers
+- Kernel modules
+- Interfacing with GPIO, I2C, SPI
+- Linux commands: top, ps, dmesg, lsmod
+- Shell scripting basics",,Yet to Start
+Application Development & Debugging,"- Cross-compilation with GCC
+- File system layout and permissions
+- GDB for remote debugging
+- Serial console and logs
+- Package management",,Yet to Start

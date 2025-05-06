@@ -1,0 +1,21 @@
+Topics,Subtopics,Projects,Status
+Intro to DSA & Time Complexity,"Big O, Time vs Space trade-off, Best-Worst-Average",,Yet to Start
+Arrays,"Traversals, Modifications, Prefix Sum, Sliding Window",,Yet to Start
+2D Arrays & Matrix Problems,"Row-wise/Col-wise Traversals, Diagonal, Spiral",,Yet to Start
+Strings,"String Manipulation, Frequency Maps, Palindromes",,Yet to Start
+Recursion - Part 1,"Basics, Stack Memory, Recursion Tree",,Yet to Start
+Recursion - Part 2,"Backtracking Intro, Subset, Permutations",,Yet to Start
+Sorting,"Bubble, Selection, Insertion, Merge, Quick",,Yet to Start
+Searching,"Linear, Binary, Lower Bound, Upper Bound",,Yet to Start
+Bit Manipulation,"AND, OR, XOR, Set/Clear/Toggle bits",,Yet to Start
+Stack,"LIFO, Implementation, Infix to Postfix, Histograms",,Yet to Start
+Queue & Deque,"FIFO, Circular Queue, Monotonic Queue",,Yet to Start
+Linked List - Part 1,"Singly LL, Reversing, Cycle Detection",,Yet to Start
+Linked List - Part 2,"DLL, Merge K Lists, Intersection Point",,Yet to Start
+Hashing & Maps,"HashMap, HashSet, Count Frequency, Custom Key",,Yet to Start
+Trees - Part 1,"Binary Tree, Traversals (DFS, BFS)",,Yet to Start
+Trees - Part 2,"BST, LCA, Diameter, Height Balance",,Yet to Start
+Heap & Priority Queue,"Min-Heap, Max-Heap, K-Largest/Smallest",,Yet to Start
+Graphs - Part 1,"Representations, BFS, DFS, Cycle Detection",,Yet to Start
+Graphs - Part 2,"Topo Sort, Union Find, MST, Dijkstra",,Yet to Start
+Dynamic Programming (DP),"Memoization, Tabulation, 0/1 Knapsack, LCS",,Yet to Start

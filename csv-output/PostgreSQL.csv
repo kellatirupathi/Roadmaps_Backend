@@ -1,0 +1,8 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to PostgreSQL,"What is PostgreSQL? Key differences between PostgreSQL and SQLite, Setting up PostgreSQL",,Yet to Start
+PostgreSQL Data Types & Syntax,"PostgreSQL-specific data types, SQL syntax differences",,Yet to Start
+Advanced PostgreSQL Features,"Stored Procedures, Triggers, Views",,Yet to Start
+Indexing & Performance,"Indexes, Query Optimization",,Yet to Start
+PostgreSQL Extensions,"Introduction to Extensions, Popular Extensions (e.g., PostGIS, pgcrypto)",,Yet to Start
+Transactions & Concurrency,"ACID Properties, Transaction Management, Concurrency Control",,Yet to Start
+Backup & Recovery,"Backup Strategies, Point-in-Time Recovery",,Yet to Start

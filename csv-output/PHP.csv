@@ -1,0 +1,42 @@
+Topics,Sub-topics,Project/App to Build,Status
+PHP Basics & Setup,"Syntax
+variables
+operators
+control structures
+functions
+error handling",Build a Simple Calculator or To-Do List with CLI/file storage,Yet to Start
+Forms & User Input,"GET/POST methods
+form validation
+sessions
+cookies
+file uploads",Create a Registration System with session-based authentication,Yet to Start
+MySQL & Database Integration,"SQL basics
+CRUD operations
+PDO
+prepared statements
+database normalization",Develop a Product Catalog with search/filter functionality,Yet to Start
+Object-Oriented PHP,"Classes
+inheritance
+interfaces
+traits
+autoloading (PSR-4)
+Composer","Build a Blog System with OOP (users, posts, comments)",Yet to Start
+MVC Architecture & Laravel,"MVC pattern
+Laravel setup
+routing
+Blade templating
+Eloquent ORM",Create a Task Manager with Laravel (CRUD + authentication),Yet to Start
+REST APIs & AJAX,"RESTful principles
+JSON handling
+JWT authentication
+cURL
+API testing",Design a Weather App using a public API (OpenWeatherMap),Yet to Start
+Security & Best Practices,"SQL injection
+XSS/CSRF protection
+password hashing
+HTTPS
+rate limiting",Secure the Blog System with input sanitization and CSRF tokens,Yet to Start
+Deployment & DevOps,"Docker basics
+CI/CD (GitHub Actions)
+AWS/Heroku deployment
+logging","Deploy a E-Commerce MVP (products, cart, checkout) to the cloud",Yet to Start

@@ -1,0 +1,17 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to IAM & Core Concepts,"- What is IAM?
+- Role of IAM in security & compliance
+- Core components: users, groups, roles, policies
+- Authentication vs Authorization",,Yet to Start
+IAM Policies & Role-Based Access Control,"- Policy structure and syntax (JSON-based)
+- IAM vs RBAC vs ABAC
+- Least privilege principle
+- Creating and attaching custom policies",,Yet to Start
+Cloud IAM Implementations (AWS/Azure/GCP),"- AWS IAM: Roles, STS, Identity Center
+- Azure Active Directory basics
+- GCP IAM: Members, roles, bindings
+- Multi-cloud IAM comparison",,Yet to Start
+"Federation, SSO, and IAM Best Practices","- SAML, OAuth 2.0, OpenID Connect basics
+- Integrating IAM with enterprise SSO (Google, Okta)
+- Audit, logging, and IAM misconfiguration risks
+- IAM lifecycle management",,Yet to Start

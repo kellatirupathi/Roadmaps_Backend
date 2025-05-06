@@ -1,0 +1,20 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to Plotly & Basics,"- What is Plotly?
+- Installing Plotly
+- Plotly Express vs Graph Objects
+- Creating basic plots (Line, Bar, Scatter)
+- Styling charts",,Yet to Start
+Advanced Charts & Customization,"- Pie Charts, Bubble Charts, Area Charts
+- Adding titles, legends, and tooltips
+- Chart customization with layout, colors, hover templates",,Yet to Start
+Interactive Elements & Callbacks,"- Adding Dropdowns, Sliders, Buttons
+- Using Plotly Dash for interactivity
+- Real-time updates with callbacks (Intro)",,Yet to Start
+Time-Series & Geo Visualizations,"- Plotting Time-Series data
+- Working with Date axes
+- Maps: Choropleth, Scattergeo
+- Mapbox Integration",,Yet to Start
+Dashboard Integration & Deployment,"- Building Dash apps (layout, callbacks)
+- Multi-page Dashboards
+- Integrating Plotly charts into Flask/Django
+- Deployment to Heroku/Render",,Yet to Start

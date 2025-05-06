@@ -1,0 +1,5 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to MySQL,"What is MySQL? Key differences between MySQL and SQLite, Setting up MySQL",,Yet to Start
+MySQL Data Types & Syntax,"MySQL-specific data types, SQL syntax differences",,Yet to Start
+Advanced MySQL Features,"Stored Procedures, Triggers, Views",,Yet to Start
+MySQL Workbench & Optimization,"Using MySQL Workbench, Query Optimization",,Yet to Start

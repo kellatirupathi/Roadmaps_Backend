@@ -1,0 +1,33 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to API & API Testing,"- What is an API? 
+ - Types of APIs (REST, SOAP, GraphQL) 
+ - Basics of HTTP (Methods, Status Codes, Headers) 
+ - API Testing Basics (Why and When to Test)",,Yet to Start
+API Testing using Postman,"- Setting up Postman 
+ - Creating and sending API requests 
+ - Query Parameters & Headers 
+ - Postman Collections and Environment Variables 
+ - Testing Authentication (API Keys, OAuth)",,Yet to Start
+Automated API Testing with Postman,"- Writing Tests in Postman (Assertions with JavaScript) 
+ - Using Pre-request & Test Scripts 
+ - Running Tests in Collection Runner 
+ - Generating API Test Reports",,Yet to Start
+API Automation using REST Assured (Java),"- Introduction to REST Assured 
+ - Setting up REST Assured with Maven 
+ - Writing Basic API Tests in Java 
+ - Validating Response Codes & JSON Data",,Yet to Start
+API Automation with Python (Requests & Pytest),"- Introduction to Python Requests Library 
+ - Writing API Tests with Pytest 
+ - Parameterizing Tests 
+ - Mocking API Responses",,Yet to Start
+Performance & Security Testing for APIs,"- Introduction to Load Testing (JMeter, K6) 
+ - Writing API Load Tests 
+ - Security Testing Basics (SQL Injection, XSS, Token Validation) 
+ - API Rate Limiting & Error Handling",,Yet to Start
+CI/CD Integration & API Mocking,"- Mocking APIs for Testing (WireMock, Mockoon) 
+ - Continuous Integration for API Tests (Jenkins/GitHub Actions) 
+ - Running API Tests in a CI/CD Pipeline",,Yet to Start
+Capstone Project: End-to-End API Testing,"- Designing a Full API Testing Strategy 
+ - Implementing Functional, Performance, and Security Tests 
+ - Generating Reports 
+ - Documenting API Testing Approach",,Yet to Start

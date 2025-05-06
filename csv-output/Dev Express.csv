@@ -1,0 +1,20 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Environment Setup,"- Overview of DevExpress and its architecture
+- Installation process (DevExpress Installer, Visual Studio integration)
+- Exploring DevExpress Toolbox and Demos
+- Project setup for WinForms/WPF/Web using DevExpress",,Yet to Start
+UI Components and Data Grids,"- Working with GridControl and DataGrid
+- Binding data sources (DataTables, Lists)
+- Formatting columns and sorting/filtering
+- Using editors like ComboBox, DatePicker, ToggleSwitch",,Yet to Start
+"Charts, Reporting & Data Binding","- Introduction to DevExpress Charts (Pie, Line, Bar)
+- Data binding across controls
+- Creating XtraReports
+- Master-detail relationships",,Yet to Start
+"Navigation, Validation, and Interaction","- Navigation Controls (Accordion, TabControl, Navigation Pane)
+- Form validation using DevExpress validation rules
+- Event handling and UI feedback",,Yet to Start
+"Integration, Export & Deployment","- Exporting data to Excel, PDF, and Word
+- Print preview and report designer integration
+- Performance optimization and best practices
+- Deployment and licensing basics",,Yet to Start

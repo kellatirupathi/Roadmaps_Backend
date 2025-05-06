@@ -1,0 +1,52 @@
+Topics,Sub-topics,Project/App to Build,Status
+Introduction to CI/CD,"• CI/CD concepts 
+ • DevOps principles 
+ • Jenkins architecture 
+ • Jenkins vs. other CI tools",,Yet to Start
+Jenkins Installation & Setup,"• Installation methods 
+ • Post-installation wizard 
+ • Plugin management 
+ • Security setup",,Yet to Start
+Jenkins Basics,"• Jenkins UI 
+ • Job types 
+ • Build triggers 
+ • Workspace management",Create a simple freestyle job that pulls code from Git and runs npm install,Yet to Start
+Jenkins Pipeline,"• Pipeline concepts 
+ • Jenkinsfile syntax 
+ • Declarative vs. Scripted 
+ • Pipeline stages","Create a basic pipeline that builds the React frontend and runs linting
+
+- Develop a multi-stage pipeline for a MERN app with separate stages for frontend and backend testing",Yet to Start
+Blue Ocean,"• Modern UI 
+ • Pipeline visualization 
+ • Pipeline editor 
+ • Activity monitoring"," Convert the existing pipeline to Blue Ocean and enhance it with visual stages
+
+- Convert the MERN pipeline to Blue Ocean with visual representation of build stages and test results",Yet to Start
+Build Tools Integration,"• Maven 
+ • Gradle 
+ • npm/Node.js 
+ • Docker builds","Extend the pipeline to build both frontend and backend components with proper environment configuration
+
+- Integrate npm scripts, webpack builds, and ESLint into the CI pipeline for a MERN application",Yet to Start
+Testing Integration,"• Unit & integration testing 
+ • Test reports 
+ • Code coverage","Add automated testing stages to the pipeline with proper test reporting
+
+- Implement comprehensive testing for React components, Express routes, and SQLite database interactions 
+
+",Yet to Start
+Deployment Automation,"• Environment management 
+ • Deployment strategies 
+ • Artifact management 
+ • Rollback mechanisms",Create a complete CD pipeline that deploys a MERN application to staging and production environments,Yet to Start
+Jenkins Security,"• Authentication 
+ • Authorization 
+ • Credentials management 
+ • Audit logging",Secure the Jenkins pipeline with proper credential management for deployment keys and environment variables,Yet to Start
+Advanced Jenkins,"• Distributed builds 
+ • Master/agent setup 
+ • Resource optimization 
+ • Performance tuning","Optimize the pipeline for performance and set up a simple agent for distributed builds
+
+- Set up a scalable Jenkins infrastructure for handling multiple MERN application builds in parallel",Yet to Start

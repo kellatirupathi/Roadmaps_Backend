@@ -1,0 +1,38 @@
+Topic,Sub-Topics,Projects,Status
+Flask Setup & Fundamentals,"IDE Setup (VSCode/PyCharm)
+Virtual Environment
+Installing Flask
+App Structure
+Running Server
+Request Handling Basics",,Yet to Start
+Routing & Templates,"Flask Routes
+URL Converters
+Templates (Jinja2)
+Template Inheritance
+Static Files",,Yet to Start
+Forms & Validation,"Flask-WTF
+CSRF Protection
+Form Classes
+Validation
+Flash Messages",,Yet to Start
+SQLite with SQLAlchemy,"SQLAlchemy Models
+CRUD Operations
+One-to-Many Relationships
+Flask-Migrate
+",,Yet to Start
+RESTful APIs with Flask,"flask-restful
+Request Parsing
+JSON Responses
+Error Handling",,Yet to Start
+Authentication with Flask-JWT,"User Model
+JWT Token Auth
+Login Endpoint
+Protected Routes",,Yet to Start
+Testing & Best Practices,"pytest Setup
+Flask Testing Client
+Unit Testing Routes
+Mocking",,Yet to Start
+Deployment,"Code Cleanup
+Procfile & Gunicorn
+Deploy to Render/Heroku
+Debug Tips",,Yet to Start

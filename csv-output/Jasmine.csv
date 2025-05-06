@@ -1,0 +1,19 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Basic Testing Concepts,"- What is Jasmine?
+- Setting up Jasmine in a project
+- Test structure: describe(), it()
+- Matchers: toBe(), toEqual(), toContain()
+- Running tests using the Jasmine CLI or browser",,Yet to Start
+"Spies, Setup & Teardown","- What are Spies?
+- Creating and using spyOn()
+- Mocking functions
+- Setup and teardown with beforeEach() and afterEach()
+- Jasmine Clock (mock timers)",,Yet to Start
+Asynchronous Testing,"- Async support in Jasmine
+- Testing callbacks, promises, and async/await
+- Using done() and done.fail()
+- Common mistakes in async testing",,Yet to Start
+Real-World Integration & Best Practices,"- Integrating Jasmine with Karma (test runner)
+- Directory structure for scalable test suites
+- Writing clean, maintainable test cases
+- Debugging and reporting",,Yet to Start

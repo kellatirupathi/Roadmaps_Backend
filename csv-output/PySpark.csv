@@ -1,0 +1,13 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to PySpark & DataFrames,"- What is PySpark? 
+ - Setting Up PySpark 
+ - Working with DataFrames (Schema, Transformations)",,Yet to Start
+PySpark SQL & Data Processing,"- Writing SQL Queries in PySpark 
+ - Handling Missing Data & Optimization 
+ - Joins, Aggregations, and Window Functions",,Yet to Start
+Machine Learning with PySpark,"- Introduction to MLlib 
+ - Feature Engineering 
+ - Training & Evaluating Models in PySpark",,Yet to Start
+Distributed Computing & Optimization,"- Partitioning & Caching 
+ - Working with Large Datasets in AWS/GCP 
+ - Performance Tuning",,Yet to Start

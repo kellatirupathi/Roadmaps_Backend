@@ -1,0 +1,22 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to AWS Networking,"- Overview of AWS Global Infrastructure
+- Basics of VPC (Virtual Private Cloud)
+- CIDR, Subnets, Route Tables
+- Internet Gateway, NAT Gateway",,Yet to Start
+Security & Access Control,"- Security Groups vs NACLs
+- SSH key access to EC2
+- Bastion Host setup
+- Network segmentation and isolation",,Yet to Start
+Load Balancing & DNS,"- Elastic Load Balancer (ALB/NLB)
+- Target groups and health checks
+- Route 53 hosted zones
+- DNS record types and routing policies",,Yet to Start
+Hybrid Networking & Peering,"- VPC Peering
+- Transit Gateway (overview)
+- Site-to-Site VPN
+- Direct Connect (intro)
+- Inter-region VPC connectivity",,Yet to Start
+"Monitoring, Troubleshooting & Best Practices","- VPC Flow Logs
+- CloudWatch for network metrics
+- Troubleshooting connectivity issues
+- Designing secure and scalable networks",,Yet to Start

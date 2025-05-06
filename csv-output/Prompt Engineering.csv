@@ -1,0 +1,20 @@
+Topic,Sub-Topics,Projects,Status
+Fundamentals of Prompt Engineering,"- What is Prompt Engineering?
+- Types of LLMs (OpenAI, Claude, Gemini)
+- Prompt formats: zero-shot, one-shot, few-shot
+- Basic structure: instructions, context, output format
+- Common failure modes",,Yet to Start
+Prompt Design Patterns & Techniques,"- Role prompting (e.g., ""You are a teacher"")
+- Chain-of-thought prompting
+- Instruction tuning vs inference
+- Input/output formatting and constraints
+- Delimiters and anchors",,Yet to Start
+Hands-On with LLM Tools & APIs,"- Using OpenAI API / Claude / Gemini via SDKs
+- Prompt templating and variable injection
+- Token limits and model selection
+- Error handling and retries
+- Prompt testing strategies",,Yet to Start
+Real-World Applications & Evaluation,"- Prompt engineering for chatbots, RAG, and agents
+- Evaluation metrics: relevance, helpfulness, hallucination rate
+- Prompt optimization for performance
+- Cost control and latency considerations",,Yet to Start

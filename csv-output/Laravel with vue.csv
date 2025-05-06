@@ -1,0 +1,6 @@
+Topic,Sub-Topic,Projects,Status
+Laravel Fundamentals,"Installing Laravel, MVC Architecture Overview, Routing Basics, Blade Templating, Database Setup with Migrations, Artisan Commands",,Yet to Start
+Vue.js Fundamentals,"Setting up Vue CLI, Vue Instance, Components Basics, Props and Events, Simple State Management, Vue Router Basics",,Yet to Start
+Integrating Laravel with Vue,"Using Laravel Mix, Serving Vue from Laravel, API Development with Laravel (API Resources, Routes, Controllers), Axios for API Calls, CSRF Protection",,Yet to Start
+Advanced Features & Optimization,"Authentication with Laravel Breeze/Sanctum, Vue Router Advanced Navigation, API Authorization, Vue State Management with Pinia/Vuex, Lazy Loading Components",,Yet to Start
+Deployment & Final Project,"Preparing for Production, Laravel and Vue Deployment Best Practices, Hosting Options, Env Variables Management, Performance Tuning, Error Handling and Debugging",,Yet to Start

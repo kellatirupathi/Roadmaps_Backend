@@ -1,0 +1,35 @@
+Topics,Sub-topics,Project/App to Build,Status
+JS Syntax & Essentials,"Spread Operator (Arrays, Objects, Function Calls)
+Rest Parameters
+Destructuring
+Default Parameters
+Template Literals
+Ternary & Switch","Build a Profile Formatter: Use spread, rest, destructuring, and template literals to render user info",Yet to Start
+Functions & Object Creators,"Arrow Functions
+Returning Objects
+Constructor vs Factory Functions
+`new` Keyword
+Object Properties
+Built-in Constructors (Date)",Create a Task Manager App using constructor/factory functions and Date object timestamps,Yet to Start
+`this` & Variable Handling,"Understanding `this` in Methods
+Arrow vs Regular Functions
+Callbacks
+Mutable vs Immutable Values
+`let` vs `const`
+Variable Declarations",Build a User Object Library simulating `this` behavior in different function types,Yet to Start
+Prototypes & Inheritance,"Prototype Property
+Prototypal Inheritance
+Built-in Constructors (`Array`,`Function`)
+Using `new`
+Prototype Chain","Build a Shape Library with inheritance (Circle, Rectangle) using prototype & constructor",Yet to Start
+Classes & Modern OOP,"JS Classes
+`constructor()` method
+Inheritance using `extends`
+Using `super()` to inherit properties and methods",Rebuild the Shape Library from Day 4 using ES6 Classes and test inheritance features,Yet to Start
+Async JS & Array Utilities,"Synchronous vs Asynchronous
+Promises (`then`, `catch`, chaining)
+Creating Promises (`new Promise`, `resolve`, `reject`)
+Async/Await
+map()
+filter()
+reduce()","Build a GitHub User Fetcher: Use async/await, Promises, and array methods to process data",Yet to Start

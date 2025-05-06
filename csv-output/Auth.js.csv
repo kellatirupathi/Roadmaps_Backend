@@ -1,0 +1,22 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Basic Setup,"- What is Auth.js?
+- Auth.js vs Firebase/Auth0
+- Installing Auth.js in Next.js App
+- Configuring auth.ts/auth.js
+- Using built-in credentials provider",,Yet to Start
+OAuth Providers Integration,"- OAuth 2.0 Basics
+- Adding Google/GitHub Login
+- Creating OAuth App in Google/GitHub
+- Callback URLs & Environment Variables",,Yet to Start
+Sessions & JWT,"- Session Management
+- jwt vs database sessions
+- Using callbacks (session, jwt, signIn, etc.)
+- Token enrichment",,Yet to Start
+Protected Routes & Access Control,"- Protecting pages using auth() middleware or useSession() hook
+- Role-based Access Control (RBAC)
+- Middleware redirects and edge functions",,Yet to Start
+Advanced Scenarios & Deployment,"- Email Provider Setup with SMTP
+- Linking Accounts
+- Logging Out & Expiration
+- Deploying Auth.js with Vercel
+- Best Practices & Security Tips",,Yet to Start

@@ -1,0 +1,14 @@
+Topic,Sub-Topics,Projects,Status
+CLI Basics & Navigation,"- Introduction to Terminal (Bash, PowerShell, CMD)
+- Filesystem Hierarchy (Linux) vs Directory Structure (Windows)
+- Basic Commands: ls, cd, pwd, mkdir, rm, cp, mv, tree
+- Command Help: man, --help, Get-Help",,Yet to Start
+File Handling & Permissions,"- Viewing Files: cat, less, more, type
+- Searching: grep, find, where
+- Editing with nano, vi, notepad
+- Permissions: chmod, chown, icacls, attrib
+- Piping and Redirection: >, >>, `",,Yet to Start
+"Scripting, Networking & Processes","- Writing Basic Shell/Bash/Powershell Scripts
+- Environment Variables
+- Process Management: ps, kill, tasklist, taskkill
+- Networking: ping, curl, ipconfig, ifconfig, tracert, netstat",,Yet to Start

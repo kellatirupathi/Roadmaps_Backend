@@ -1,0 +1,7 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to Microcontrollers,"Microcontroller vs. Microprocessor, Architecture, GPIO, Memory, Peripherals",,Yet to Start
+Embedded C & Programming Basics,"Variables, Loops, Functions, Bitwise Operations, Interrupts",,Yet to Start
+Communication Protocols,"UART, I2C, SPI, CAN, RS-485",,Yet to Start
+Sensors & Actuators,"ADC, PWM, Temperature Sensors, Motors, Ultrasonic Sensors",,Yet to Start
+Real-time Operating Systems (RTOS),"Tasks, Scheduling, Synchronization, Mutex, Semaphores",,Yet to Start
+Industry-level Project,"Power Optimization, Debugging, PCB Design Basics, Testing",,Yet to Start

@@ -1,0 +1,12 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to NetworkX & Graph Basics,"- What is NetworkX?
+- Installing NetworkX
+- Creating Graphs: Graph(), DiGraph(), MultiGraph()
+- Adding Nodes and Edges
+- Visualizing Graphs with Matplotlib
+- Basic Graph Properties (Degree, Path, Connectivity)",,Yet to Start
+Graph Algorithms & Real-World Analysis,"- Shortest Path Algorithms (Dijkstra, BFS)
+- Centrality Measures (Degree, Betweenness, Closeness)
+- Community Detection Basics
+- Graph Data Import/Export (GEXF, GML, JSON)
+- Real-world graph datasets (e.g., Facebook, Citation networks)",,Yet to Start

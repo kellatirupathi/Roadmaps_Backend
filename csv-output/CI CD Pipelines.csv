@@ -1,0 +1,13 @@
+Topic,Sub-Topic,Projects,Status
+CI/CD Fundamentals,"What is CI/CD?, Benefits, Pipelines, Version Control (Git, GitHub)",,Yet to Start
+CI/CD Tools Overview,"Jenkins, GitHub Actions, GitLab CI, CircleCI",,Yet to Start
+Setting Up Jenkins,"Installing Jenkins, Creating Jobs, Pipelines",,Yet to Start
+Containerization & CI/CD,"Docker Basics, Docker Compose, Building & Pushing Images",,Yet to Start
+Kubernetes & CI/CD,"Kubernetes Basics, Deployment Strategies, Helm Charts",,Yet to Start
+Automated Testing in CI/CD,"Unit Testing, Integration Testing, Code Quality Tools (SonarQube)",,Yet to Start
+Infrastructure as Code (IaC),"Terraform, Ansible, CloudFormation Basics",,Yet to Start
+Security in CI/CD,"Secrets Management, Vulnerability Scanning, Compliance Checks",,Yet to Start
+Advanced Deployment Strategies,"Blue-Green Deployment, Canary Releases, Rollbacks",,Yet to Start
+Cloud & CI/CD,AWS/GCP/Azure DevOps CI/CD Pipelines,,Yet to Start
+Monitoring & Logging in CI/CD,"Prometheus, Grafana, ELK Stack",,Yet to Start
+Final Capstone Project,End-to-End CI/CD Pipeline,,Yet to Start

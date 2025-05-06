@@ -1,0 +1,5 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to GCP & Cloud Basics,"GCP Overview, IAM & Identity, Compute Engine, Cloud Storage, Cloud SDK & CLI",,Yet to Start
+Compute & Networking in GCP,"Kubernetes Engine (GKE), App Engine, Cloud Run, VPC & Subnetting, Load Balancing",,Yet to Start
+Databases & Serverless Architecture,"Firestore & BigQuery, Cloud SQL, Pub/Sub, Cloud Functions, Event-Driven Computing",,Yet to Start
+"DevOps, Monitoring & Deployment","CI/CD with Cloud Build, Terraform & Infrastructure as Code, Cloud Monitoring & Logging",,Yet to Start

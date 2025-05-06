@@ -1,0 +1,25 @@
+Topic,Sub-Topics,Projects,Status
+Image Processing with Python,"- Image formats and representations
+- Using OpenCV for image I/O, filters, edges, contours
+- Resizing, cropping, thresholding
+- Preprocessing for ML",,Yet to Start
+ML Algorithms for Image Classification,"- Introduction to CNNs
+- Using TensorFlow/Keras or PyTorch
+- Training a simple image classifier
+- Evaluating accuracy and confusion matrix",,Yet to Start
+Firmware & Embedded ML Basics,"- What is firmware?
+- Microcontroller selection (ESP32, STM32)
+- Edge ML overview (TinyML)
+- Deploying TensorFlow Lite models on firmware",,Yet to Start
+Sensor Input & Real-Time Inference,"- Capturing camera input on-device
+- Running inference on input images
+- Real-time detection loop
+- Low-power optimization",,Yet to Start
+Cloud Integration & Data Sync,"- AWS/GCP/Azure IoT basics
+- MQTT/HTTP protocols
+- Sending inference results to cloud
+- Logging and remote monitoring",,Yet to Start
+Final Project: Full AI+Firmware+Cloud System,"- End-to-end pipeline
+- Offline inference + online alerting
+- Model updates from cloud
+- Evaluation and deployment",,Yet to Start

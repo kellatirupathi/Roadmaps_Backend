@@ -1,0 +1,15 @@
+Topic,Sub-Topics,Projects,Status
+Webhook Fundamentals & Setup,"- What is a Webhook?
+- Webhook vs API Polling
+- Common Use Cases (Payment, Git, Slack, etc.)
+- Anatomy of a Webhook: URL, Payload, Headers
+- HTTP Methods & JSON Basics",,Yet to Start
+Creating & Consuming Webhooks,"- Setting Up Webhook Endpoints
+- Validating Payloads
+- Using ngrok for local testing
+- Sending Webhooks (e.g., using Stripe test mode or GitHub)
+- Error Handling & Retries",,Yet to Start
+Securing & Debugging Webhooks,"- Securing Webhooks (Secret Token/Signature Validation)
+- Logging & Debugging Tools
+- Replaying Webhook Events
+- Rate Limits & Best Practices",,Yet to Start

@@ -1,0 +1,16 @@
+Topic,Sub-Topics,Projects,Status
+Prisma Setup & Schema Modeling,"- What is Prisma?
+- Installing Prisma in Node/Next.js Project
+- .env DB setup
+- Creating schema.prisma with models
+- Running prisma migrate
+- Generating Prisma Client",,Yet to Start
+CRUD Operations with Prisma Client,"- Using Prisma Client
+- Performing CRUD: create, findMany, update, delete
+- Handling errors
+- Prisma best practices",,Yet to Start
+"Relations, Queries & Deployment","- Data Relations (1-1, 1-Many)
+- Nested queries & writes
+- Filtering & Pagination
+- Seeding data
+- Prisma in Production",,Yet to Start

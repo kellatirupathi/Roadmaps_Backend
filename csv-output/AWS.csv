@@ -1,0 +1,7 @@
+Topics,Sub-topics,Project/App to Build,Status
+AWS Overview & Setup,Intro to AWS Console; IAM roles and access setup; AWS CLI setup; Budget Alerts and Best Practices,"Create an AWS Free Tier account, set up IAM roles, CLI, and billing alerts",Yet to Start
+Hosting Static Website on S3,Creating and configuring S3 buckets; Uploading static files (HTML/CSS/JS); Setting permissions for public access; S3 bucket policies,Host a static HTML/CSS/JS site from S3,Yet to Start
+Configuring CDN and Custom Domain,Setting up CloudFront for S3; Route 53 domain mapping; SSL with AWS Certificate Manager; Caching behavior and invalidations,Configure custom domain + SSL for S3 static site via Route 53 and CloudFront,Yet to Start
+Deploying Flask Backend Serverless,Intro to AWS Lambda; Packaging Flask app for Lambda (via Zappa/Serverless Framework); Setting up API Gateway; Lambda function versioning,Deploy a Python Flask API with Lambda + API Gateway,Yet to Start
+Monitoring & Logging,Introduction to CloudWatch; Creating custom metrics/logs; Setting up Alarms and Dashboards; Error tracking and alert notifications,Monitor the Flask Lambda API using CloudWatch dashboards and trigger alerts,Yet to Start
+IAM & Role-Based Access Control,"Understanding IAM users, roles, and policies; Creating least privilege policies; Securing S3/EC2/Lambda with IAM; Access logging & audit trail",Secure all previously created AWS resources with proper IAM policies and test access control,Yet to Start

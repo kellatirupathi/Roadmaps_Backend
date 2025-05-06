@@ -1,0 +1,16 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & CASL Core,"- What is CASL?
+- Role-Based Access Control (RBAC) vs Attribute-Based (ABAC)
+- Installing CASL
+- Defining Abilities with AbilityBuilder
+- Subject Types & Actions
+- can() and cannot() logic",,Yet to Start
+CASL in Frontend (React/Vue),"- Integrating CASL in React/Vue
+- Conditional Rendering using can()
+- Access Control for Buttons/Links/Routes
+- React Context for Role Management",,Yet to Start
+CASL in Backend (Node.js/Express),"- Server-side Access Control
+- Reusing Ability Definitions on Server
+- Middleware-based Protection
+- Checking can() before DB actions
+- Error Handling",,Yet to Start

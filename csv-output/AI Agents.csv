@@ -1,0 +1,15 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to AI Agents & Use Cases,"- What are AI agents?
+- Autonomous agents vs tool-using assistants
+- Key components: memory, planning, tools
+- Popular frameworks: LangChain, Autogen, CrewAI",,Yet to Start
+Agent Architecture & Tool Integration,"- Designing an agent loop (think → act → observe)
+- Using tools (Search, Calculator, Code Interpreter)
+- Agent memory and context persistence",,Yet to Start
+Frameworks: LangChain & CrewAI,"- LangChain agent types: ReAct, Conversational, Tool-Calling agents
+- CrewAI: Roles, Tasks, Process flows
+- Prompt engineering for multi-agent systems",,Yet to Start
+Workflow Orchestration & Error Handling,"- Agent state management
+- Retrying and fallback strategies
+- Prompt guards and evaluation
+- Streaming responses and intermediate state inspection",,Yet to Start

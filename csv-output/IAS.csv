@@ -1,0 +1,21 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to Cloud & IAS Fundamentals,"- Basics of Cloud Computing
+- IAS vs. PaaS vs. SaaS
+- Cloud Providers (AWS, Azure, GCP)
+- Virtual Machines & Containers (Docker, Kubernetes basics)
+- Networking in Cloud (VPC, Subnets)",,Yet to Start
+Core IAS Services & Hands-On Deployment,"- Storage Solutions (S3, Blob Storage, Google Cloud Storage)
+- Load Balancing & Auto Scaling (ALB, Azure Load Balancer, etc.)
+- Security & IAM (Identity Access Management, Role-based access control)
+- Infrastructure as Code (Terraform, CloudFormation basics)
+- Logging & Monitoring (CloudWatch, Azure Monitor)",,Yet to Start
+Advanced IAS & Cloud Automation,"- Serverless Computing with IAS (Lambda, Azure Functions, Google Cloud Functions)
+- CI/CD Pipelines (Jenkins, GitHub Actions, AWS CodePipeline)
+- Cloud Cost Optimization Strategies
+- Multi-Cloud Deployments & Hybrid Cloud Approaches
+- Disaster Recovery & Backup Strategies",,Yet to Start
+Real-World Applications & Capstone Project,"- Kubernetes & Microservices Deployment (EKS, AKS, GKE)
+- Logging & Security Compliance in Production
+- Performance Tuning & Scaling Strategies
+- Cloud-Native Application Development Best Practices
+- DevSecOps & Infrastructure Security",,Yet to Start

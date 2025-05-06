@@ -1,0 +1,7 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to Augmented Reality,"AR vs VR vs MR, AR History & Use Cases, AR Hardware (HoloLens, Magic Leap, etc.), AR Development Ecosystem, Industry Applications",,Yet to Start
+AR SDKs & Tools Overview,"Unity & Unreal for AR, ARKit (iOS), ARCore (Android), Vuforia (Cross-Platform), WebAR (Three.js, 8thWall), Choosing the right SDK",,Yet to Start
+3D Content & Interaction Design,"3D Modeling (Blender, Maya), Textures & Shaders, Physics & Collisions, AR UI/UX Principles, Interactions (Gestures, Voice Commands)",,Yet to Start
+AR Features & Advanced Concepts,"AR Anchors & Tracking, Image & Object Recognition, Plane Detection, SLAM (Simultaneous Localization and Mapping), AR Cloud & Persistence",,Yet to Start
+AR for Real-World Applications,"AR for Retail (Virtual Try-On), AR in Education, AR for Healthcare, AR in Industrial Training, AR for Remote Assistance",,Yet to Start
+Capstone Project: Full AR Experience,"AR UI Optimization, Performance Enhancements, Deploying AR Apps (App Store, WebAR), Industry Trends & Future of AR, AR & AI Integration",,Yet to Start

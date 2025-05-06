@@ -1,0 +1,14 @@
+Topics,Sub-topics,Project/App to Build,Status
+Express & HTTP Foundations,"HTTP Server Basics
+Server-side Web Frameworks
+Express JS Setup
+Nodemon
+Handling HTTP Methods (GET, POST, etc.)
+Sending HTML/File Responses","Build a simple Express server that returns today’s date, serves static HTML, and sends files",Yet to Start
+REST API & SQLite Integration,"SQLite CLI
+Initializing SQLite DB
+Express Network Calls
+SQLite Methods (get, run)
+API Endpoints (GET, POST, PUT, DELETE)
+Goodreads API (Book + Author)
+Connecting SQLite with Node.js",Build a full Express + SQLite API for Goodreads-style book & author CRUD with endpoints,Yet to Start

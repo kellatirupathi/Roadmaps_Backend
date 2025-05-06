@@ -1,0 +1,24 @@
+Topic,Sub-Topics,Projects,Status
+Python Basics for Data Handling,"- Python data types and structures (list, dict, tuple, set)
+- File I/O operations (CSV, TXT)
+- Loops, conditionals, functions
+- Exception handling",,Yet to Start
+Data Cleaning with Pandas,"- Reading/writing CSV/Excel/JSON
+- Handling missing data (dropna(), fillna())
+- Type conversion
+- Filtering, sorting, and renaming",,Yet to Start
+Data Transformation & Aggregation,"- Grouping and aggregating data
+- Merging and joining datasets
+- Creating new columns using apply/map
+- Pivot tables and reshaping",,Yet to Start
+Working with Databases (SQL + Python),"- Using sqlite3 and SQLAlchemy in Python
+- Creating tables and inserting data
+- Querying and updating data
+- Import/export from DataFrames",,Yet to Start
+Automating Data Pipelines,"- Creating reusable data processing functions
+- Reading from APIs
+- Scheduling with cron or schedule library
+- Logging and error handling",,Yet to Start
+Final Project: End-to-End Data Workflow,"- Integrating file input, transformation, and DB storage
+- Validation checks and reporting
+- Preparing data for BI tools",,Yet to Start

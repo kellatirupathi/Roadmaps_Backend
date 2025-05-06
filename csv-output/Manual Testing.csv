@@ -1,0 +1,20 @@
+Topic,Sub-Topics,Projects,Status
+Testing Basics & SDLC/STLC,"- What is Software Testing?
+- SDLC vs STLC
+- QA Roles & Responsibilities
+- Test Plan vs Test Strategy
+- Types of Testing (Unit, Integration, System)",,Yet to Start
+Test Case Design & Bug Lifecycle,"- Writing Test Scenarios vs Test Cases
+- Test Case Formats
+- Bug Life Cycle
+- Severity vs Priority
+- Defect Reporting Best Practices",,Yet to Start
+"Functional, Regression & Exploratory Testing","- Functional Testing
+- Regression Testing
+- Exploratory Testing
+- Smoke & Sanity Testing
+- Test Coverage Techniques",,Yet to Start
+Real-world Project Simulation,"- Hands-on Testing Simulation
+- Performing End-to-End Testing
+- Manual Test Execution Checklist
+- Generating QA Reports",,Yet to Start

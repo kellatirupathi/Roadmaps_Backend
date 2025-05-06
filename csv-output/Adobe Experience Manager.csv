@@ -1,0 +1,19 @@
+Topic,Sub-Topic,Projects,Status
+AEM Basics & Authoring,"Installing AEM SDK & Setup, 
+Understanding AEM Terminology (Pages, Templates, Components),
+Exploring AEM Console,
+Authoring Tools Overview,
+Creating Pages using Editable Templates, 
+Introduction to Sites & Assets",,Yet to Start
+"Components, Templates & JCR","Create Custom AEM Components, 
+Understanding HTL (HTML Template Language),
+Dialog Boxes & Sling Models,
+Using CRXDE Lite & JCR, 
+Building & Deploying Packages,
+Integrating Frontend with Backend using Sling Models",,Yet to Start
+"Workflows, Debugging & APIs","AEM Workflows Overview, 
+Creating a Simple Workflow, 
+Using Templated APIs, 
+Error Handling & Logs,
+Using Postman for AEM APIs,
+Debugging & Versioning in AEM",,Yet to Start

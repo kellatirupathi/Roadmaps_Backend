@@ -1,0 +1,9 @@
+Topic,Sub-Topic,Projects,Status
+Spring Framework Basics,"Introduction to Spring, Inversion of Control (IoC), Dependency Injection, Spring Beans, Bean Scopes, ApplicationContext",,Yet to Start
+Spring Boot Fundamentals,"Spring Boot vs Spring, Project Setup (Spring Initializr), Auto Configuration, Starter Dependencies, Application Properties",,Yet to Start
+Spring Boot REST API,"RESTful Web Services, Controllers, Request Mapping, Response Handling, Exception Handling, Path Variables & Query Params",,Yet to Start
+Data Persistence with JPA,"Spring Data JPA, Entity Relationships, Repository Pattern, CRUD Operations, H2/PostgreSQL Integration",,Yet to Start
+Spring Security,"Authentication & Authorization, BCrypt Password Hashing, JWT Token Authentication, Role-Based Access Control",,Yet to Start
+Spring Boot & Database,"Spring Boot with MySQL/PostgreSQL, Database Migrations (Flyway/Liquibase), Transactions & ACID, Caching (Ehcache, Redis)",,Yet to Start
+Spring Boot Microservices,"Microservices Architecture, Service Registration (Eureka), API Gateway (Zuul/Spring Cloud Gateway), Inter-Service Communication (Feign/RestTemplate)",,Yet to Start
+Advanced Topics,"Spring Boot Actuator, Distributed Tracing with Zipkin, Monitoring (Prometheus & Grafana), Deployment (Docker/Kubernetes)",,Yet to Start

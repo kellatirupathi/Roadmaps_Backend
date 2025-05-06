@@ -1,0 +1,16 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Zoho CRM Configuration,"- What is Zoho and its ecosystem (CRM, Creator, Desk, Books)
+- Setting up Zoho account and CRM workspace
+- Modules, Layouts, Fields
+- Validation Rules and Field-level Permissions
+- Custom Views & Filters",,Yet to Start
+Workflow Automation & Zoho Creator,"- Workflow Rules: Triggers, Actions (Tasks, Field Updates, Webhooks)
+- Assignment Rules
+- Introduction to Zoho Creator
+- Creating Forms, Workflows, and Reports
+- Deluge Scripting Basics",,Yet to Start
+"Integration, Reports & Role Management","- Blueprint for process automation
+- Reports & Dashboards
+- Roles, Profiles, Sharing Rules
+- Integration with Mail/Calendar/Third-party tools
+- Sandbox & Deployment",,Yet to Start

@@ -1,0 +1,104 @@
+Topic,Sub-Topic,Projects,Status
+"Intro to Vue JS, Vite & First Components","What is Vue?
+Vue.js vs React: Key Differences
+Vue 3 vs Vue 2
+Vite Setup, Project structure
+First component
+Vue DevTools",,Yet to Start
+Vue Template Syntax + Directives,"Text interpolation
+v-bind
+v-if / v-else
+v-for
+v-show
+Class/style bindings",,Yet to Start
+Component System,"Global & Local Components
+Props
+Custom Events ($emit)
+Slots Basics
+Single File Components (.vue)",,Yet to Start
+Forms & Event Handling,"v-model
+Form Inputs
+Computed Properties
+Watchers
+Handling Form Events",,Yet to Start
+Component Communication & Lifecycle,"Parent-Child Communication
+Props Down, Events Up
+Lifecycle Hooks
+Dynamic & Async Components",,Yet to Start
+Routing with Vue Router,"Vue Router Setup
+Route Configuration
+Dynamic Params
+Route Guards
+Nested Routes",,Yet to Start
+State Management with Vuex,"Vuex vs Redux
+State, Getters
+Mutations & Actions
+Connecting Store to Components",,Yet to Start
+Advanced Vuex & API Integration,"Structuring Vuex for Large Apps
+API Integration in Actions
+Handling Loading & Errors
+Axios Setup",,Yet to Start
+Vue Composition API,"Options API vs Composition API
+ref & reactive
+computed & watch
+Lifecycle Hooks
+Comparison with React Hooks",,Yet to Start
+Advanced Component Patterns,"Scoped Slots
+Provide/Inject
+Mixins vs Composables
+Teleport
+Render Functions",,Yet to Start
+Transitions & Animations,"Vue <transition> and <transition-group>
+CSS & JS Animations
+List Transitions
+Hooks for Animations",,Yet to Start
+Testing Vue Apps,"Vue Test Utils Basics
+Unit Testing Components
+Mocking APIs
+E2E Testing with Cypress",,Yet to Start
+Performance Optimization,"Lazy Loading Components
+Code Splitting
+Virtual Scrolling
+Optimizing Re-renders
+Memory Leak Prevention
+Vue DevTools",,Yet to Start
+Reusable Patterns & Plugins,"Mixins (vs HOCs)
+Custom Directives
+Creating Plugins
+Composables (vs Custom Hooks)
+Provide/Inject (vs React Context)",,Yet to Start
+Nuxt.js Introduction,"Nuxt Overview
+SSR & SSG
+Pages & Layouts
+Routing in Nuxt
+Fetching Strategies
+SEO Optimization",,Yet to Start
+Vue 3 Advanced Features,"Fragments
+Teleport (vs Portals)
+Suspense
+Multiple v-models
+script setup syntax
+Global Mounting Changes",,Yet to Start
+Internationalization & A11y,"Vue I18n Setup
+Translation Files
+Dynamic Locale Switching
+Number & Date Formatting
+Pluralization
+ARIA Tags",,Yet to Start
+Vue + TypeScript,"TypeScript Setup
+Type Definitions
+Typed Props, Events, Emits
+Type-safe Stores
+Class-based Components (optional)",,Yet to Start
+Mobile & PWA Development,"PWA Basics
+Service Workers
+Offline Access
+Touch Events
+Capacitor Overview
+Responsive Design Patterns",,Yet to Start
+Final Capstone & Deployment,"Project Planning
+State + API Integration
+Routing & Auth
+CI/CD Pipeline
+Testing Strategy
+Deployment Best Practices",,Yet to Start

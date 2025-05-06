@@ -1,0 +1,7 @@
+Topic,Sub-Topics,Projects,Status
+Python & PyTorch Basics,"NumPy, Pandas, PyTorch Tensors, Autograd, GPU Acceleration",,Yet to Start
+Neural Networks Basics,"Torch.nn, Loss Functions, Optimizers, Backpropagation",,Yet to Start
+Convolutional Neural Nets,"CNNs, Transfer Learning, Batch Normalization, Data Augmentation",,Yet to Start
+NLP with PyTorch,"Tokenization, Embeddings, RNNs, LSTMs, Transformers (Intro to HuggingFace)",,Yet to Start
+Advanced Deep Learning,"GANs, Autoencoders, Attention Mechanisms, PyTorch Lightning",,Yet to Start
+Deployment & Optimization,"ONNX, TorchScript, Model Optimization, Inference Pipelines, FastAPI",,Yet to Start

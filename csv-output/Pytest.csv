@@ -1,0 +1,7 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to Pytest & Setup     ,"Introduction to Testing, Installing Pytest, First Test, Test Discovery",,Yet to Start
+Working with Pytest Features   ,"Parametrizing tests, Fixtures, Test Results, Markers, Skipping Tests",,Yet to Start
+"Mocking, Patching, and Coverage ","Mocking with `unittest.mock`, Test Coverage with `pytest-cov`, `pytest-mock`",,Yet to Start
+"Test Suites, Advanced Fixtures    ","Organizing Tests, Custom Fixtures, Plugins, `pytest-django`, `pytest-flask`",,Yet to Start
+ Test Automation & CI         ,"CI Integration (GitHub Actions, Travis CI), Parallel Test Execution ",,Yet to Start
+Debugging and Optimizing Tests   ,"Debugging with `pdb`, Interpreting Tracebacks, Performance Tests     ",,Yet to Start

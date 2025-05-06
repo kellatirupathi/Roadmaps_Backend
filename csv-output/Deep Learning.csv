@@ -1,0 +1,11 @@
+Topic,Sub-Topics,Projects,Status
+Python & Math for Deep Learning,"Linear Algebra, Probability, Statistics, NumPy, Pandas, Matplotlib",,Yet to Start
+Neural Networks Basics,"Perceptron, Activation Functions, Forward & Backpropagation",,Yet to Start
+Deep Learning Frameworks,"PyTorch Basics, TensorFlow Basics, Keras, AutoGrad, Model Training",,Yet to Start
+Convolutional Neural Networks,"Conv Layers, Pooling, BatchNorm, Transfer Learning",,Yet to Start
+Optimization & Hyperparameter Tuning,"Loss Functions, Optimizers (SGD, Adam), Learning Rate Scheduling",,Yet to Start
+"Recurrent Neural Networks (RNN, LSTM, GRU)","Sequence Modeling, Time-Series Forecasting, Attention Mechanism",,Yet to Start
+Transformers & Advanced Models,"Self-Attention, BERT, GPT, Vision Transformers (ViTs)",,Yet to Start
+"Generative Models (GANs, VAEs)","GANs, DCGAN, VAEs, Diffusion Models",,Yet to Start
+Deployment & Industry Best Practices,"Model Deployment (Flask, FastAPI, TensorFlow Serving), MLOps, Docker",,Yet to Start
+Capstone Project,"End-to-End AI Solution, Data Engineering, Model Deployment",,Yet to Start

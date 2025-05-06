@@ -1,0 +1,21 @@
+Topics,Sub-topics,Project/App to Build,Status
+Introduction to Next.js,"Overview of Next.js
+Setting up a Next.js project
+Project structure and conventions
+Creating your first page",Set up a Next.js project and create a simple homepage,Yet to Start
+Routing and Navigation,"Pages and file-based routing
+Dynamic routes and catch-all routes
+Link component and client-side navigation",Develop a multi-page website with dynamic routes,Yet to Start
+Data Fetching and Rendering Strategies,"Pre-rendering: Static Generation (SSG) and Server-side Rendering (SSR) 
+getStaticProps and getServerSideProps 
+Client-side data fetching",Build a blog that fetches posts from an external API and renders them using SSG and SSR,Yet to Start
+API Routes and Backend Integration,"Creating API routes in Next.js 
+Connecting to a database (e.g., MongoDB) 
+Environment variables and configuration",Develop a RESTful API with CRUD operations connected to a MongoDB database,Yet to Start
+Authentication and Authorization,"Implementing authentication with NextAuth.js
+Protecting routes and handling sessions
+Role-based access control","Integrate user authentication into the previous day's project, allowing users to register, log in, and access protected routes",Yet to Start
+Deployment and Optimization,"Optimizing performance and SEO
+Image optimization with next/image
+Deployment strategies (Vercel, Netlify)
+Monitoring and analytics",Deploy the developed application to Vercel and analyze its performance,Yet to Start

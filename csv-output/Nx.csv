@@ -1,0 +1,18 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to Nx & Monorepos,"- What is Nx?
+- Nx vs Lerna/Turborepo
+- Installing Nx CLI
+- Understanding workspaces: apps/ vs libs/
+- Creating apps & libs with generators",,Yet to Start
+Dependency Graph & Code Sharing,"- Visualizing dependencies (nx graph)
+- Sharing code via libraries
+- Implicit & explicit dependencies
+- Tagging and enforcing boundaries",,Yet to Start
+"Testing, Linting & Affected Commands","- Unit testing with Jest/Cypress
+- Linting setup
+- nx affected commands for smart rebuilds
+- Workspace-level scripts",,Yet to Start
+CI/CD & Advanced Features,"- Nx Cloud & remote caching
+- Custom executors & generators
+- CI pipeline with GitHub Actions
+- Versioning and publishing packages (optional)",,Yet to Start

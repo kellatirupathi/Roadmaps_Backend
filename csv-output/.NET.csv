@@ -1,0 +1,42 @@
+Topics,Sub-topics,Project/App to Build,Status
+C# & .NET Fundamentals,"C# syntax
+OOP principles
+.NET CLI
+NuGet packages
+debugging in VS/VS Code	",Build a Console-Based Inventory System (CRUD operations),Yet to Start
+ASP.NET Core Basics,"MVC pattern
+Razor Pages
+middleware
+dependency injection
+app configuration        ",Create a Todo List Web App (Razor Pages + Bootstrap),Yet to Start
+Database Integration (EF Core),"Entity Framework Core
+migrations
+LINQ
+SQL Server/PostgreSQL setup	","Develop a Library Management System (Books, Members, Borrowing)",Yet to Start
+REST APIs with .NET Web API,"API controllers
+DTOs
+Swagger/OpenAPI
+routing
+HTTP methods	",Design a Weather Forecast API (Integrate with OpenWeatherMap),Yet to Start
+Authentication & Authorization,"Identity Framework
+JWT
+role-based access
+OAuth2 (Azure AD/Google)",Secure the Library System with User Roles (Admin/Member),Yet to Start
+Cloud Integration (Azure),"Azure App Service
+Azure SQL
+Blob Storage
+Key Vault
+Managed Identity	",Deploy the Weather API to Azure with Blob Storage for logs,Yet to Start
+Testing & DevOps,"xUnit/NUnit
+Moq
+GitHub Actions
+Docker containers
+logging (Serilog)	",Add Unit Tests to Todo List + Dockerize & Deploy via CI/CD,Yet to Start
+Microservices & Advanced APIs,"gRPC
+Ocelot API Gateway
+RabbitMQ
+distributed caching (Redis)	",Build a Payment Processing Microservice (Integrate with Stripe API),Yet to Start
+Real-Time Apps (SignalR),"WebSocket basics
+SignalR hubs
+client-server communication
+scaling",Create a Live Chat App with real-time messaging,Yet to Start

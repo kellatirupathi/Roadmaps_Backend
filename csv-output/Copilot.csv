@@ -1,0 +1,19 @@
+Topic,Sub-Topic,Projects,Status
+Getting Started with Copilot,"Installing Copilot in VS Code, 
+Setting up GitHub Authentication, 
+Understanding How Copilot Works,
+Basic Prompting Techniques,
+Exploring Language Support,
+Enabling/Disabling Copilot Intelligently",,Yet to Start
+Real-world Usage in Development,"[Using Copilot for HTML/CSS Boilerplates, 
+React Component Generation,
+Writing Python Functions with Docstrings, 
+Refactoring with Copilot, 
+Using Copilot in Git Workflow (Commit Msgs, PR Templates),
+Auto-generating Tests]",,Yet to Start
+Copilot in Team & Production Settings,"[Pair Programming with Copilot, 
+Avoiding Over-Reliance,
+Reviewing Copilot Suggestions, 
+Security Best Practices,
+Prompt Engineering for Complex Code, 
+Copilot in Large Codebases]",,Yet to Start

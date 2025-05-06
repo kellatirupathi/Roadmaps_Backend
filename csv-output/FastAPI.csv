@@ -1,0 +1,41 @@
+Topic,Sub-Topics,Projects,Status
+FastAPI Setup & Fundamentals,"IDE Setup (VSCode/PyCharm)
+Virtual Environment
+Installing FastAPI
+App Structure
+Uvicorn Server
+Request Handling
+Path Operations",,Yet to Start
+Path Parameters & Query Parameters,"Path Parameters
+Query Parameters
+Request Validation
+Pydantic Models
+Response Models",,Yet to Start
+Pydantic & Data Validation,"Pydantic Models
+Field Validation
+Request Body Parsing
+Nested Models
+Custom Validators
+",,Yet to Start
+SQLite with SQLAlchemy,"SQLAlchemy ORM
+FastAPI integration
+Async Database
+CRUD Operations
+Dependency Injection",,Yet to Start
+Advanced API Features,"Background Tasks
+WebSockets
+Middleware
+CORS",,Yet to Start
+Authentication & Security,"OAuth2
+JWT
+Password Hashing
+Security Scopes",,Yet to Start
+Testing & Documentation,"pytest
+TestClient
+Mocking
+API Testing
+Auto-Documentation
+OpenAPI",,Yet to Start
+Deployment & Performance,"Docker
+Gunicorn+Uvicorn
+Deploy to Render/Heroku/Railway",,Yet to Start

@@ -1,0 +1,7 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to Appium,"What is Appium, Appium Architecture, Native vs Hybrid vs Web Apps, Installing Appium Server, Setting up Android Studio & Emulator",,Yet to Start
+Appium Basics & First Script,"Understanding Desired Capabilities, Appium Inspector, Writing First Test Script in Java/Python, Locating Elements (ID, XPath, Accessibility ID)",,Yet to Start
+Advanced Element Interactions,"Gestures Automation (Swipe, Tap, Long Press), Working with Toast Messages, Scrolling Techniques, Handling Alerts and Popups",,Yet to Start
+Frameworks & Best Practices,"Page Object Model (POM) in Appium, TestNG/JUnit Integration, Synchronization and Waits, Logging and Reporting Techniques",,Yet to Start
+Cross-Platform & Cloud Testing,"Testing on Real Devices (Local/Cloud), Introduction to BrowserStack and Sauce Labs, Parallel Test Execution, Cross-Platform Strategy",,Yet to Start
+CI/CD Integration & Final Project,"Integrating Appium tests with Jenkins, GitHub Actions for Mobile CI, Test Artifacts Management, Best Practices for Mobile Test Automation",,Yet to Start

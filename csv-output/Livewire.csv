@@ -1,0 +1,17 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Component Basics,"- What is Livewire?
+- Installing Livewire in a Laravel Project
+- Creating Livewire Components (make:livewire)
+- Blade Integration
+- Data Binding with wire:model
+- Lifecycle Hooks",,Yet to Start
+"Form Handling, Events & Validation","- Handling Forms with Livewire
+- Livewire Validation ($this->validate)
+- Events ($emit, $dispatch, $listen)
+- File Uploads
+- Component Communication",,Yet to Start
+Real-world Integration & Optimization,"- Nested Components
+- Pagination with Livewire
+- Realtime UI Updates
+- Integrating Alpine.js for better UX
+- Performance Best Practices",,Yet to Start

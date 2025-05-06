@@ -1,0 +1,14 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Basic Server Setup,"- What is Fiber?
+- Installing Fiber and initializing a project
+- Creating routes: GET, POST, PUT, DELETE
+- Request handling and routing
+- Serving static files and JSON",,Yet to Start
+"Middleware, Routing & Validation","- Using built-in middleware (Logger, CORS, Recover)
+- Creating custom middleware
+- Grouped routing and dynamic parameters
+- Input validation (via validator or custom logic)",,Yet to Start
+Fiber with Database & Production Setup,"- Connecting Fiber with a database (PostgreSQL/MySQL/SQLite)
+- Using GORM or SQL drivers
+- Environment variable config (dotenv)
+- Deployment basics (binary build, Docker)",,Yet to Start

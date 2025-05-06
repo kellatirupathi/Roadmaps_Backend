@@ -1,0 +1,5 @@
+Topic,Sub-Topics,Projects,Status
+Fundamentals of Computer Vision,"Image Processing Basics, OpenCV Introduction, NumPy for CV, Image Filters, Edge Detection, Histograms",,Yet to Start
+Feature Extraction & Object Detection,"SIFT, ORB, HOG Features, Contours, Bounding Boxes, Haar Cascades",,Yet to Start
+Deep Learning for Computer Vision,"CNNs, Transfer Learning, Pretrained Models (VGG, ResNet), Data Augmentation",,Yet to Start
+Advanced Applications & Model Deployment,"YOLO & SSD, ONNX, Model Optimization, Deployment with Flask/FastAPI",,Yet to Start

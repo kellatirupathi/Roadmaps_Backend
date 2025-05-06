@@ -1,0 +1,18 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to Encore.ts,"What is Encore.ts? Why use it? Encore Architecture
+Setting up the Environment
+","Set up a basic Encore project and create a ""Hello World"" API",Yet to Start
+Services & APIs,"Creating Services
+Defining APIs
+Request Payloads
+Response Handling","Build a simple API with 2-3 endpoints (e.g., /users, /posts)",Yet to Start
+Database Integration,"Introduction to SQLite
+Setting up SQLite with Encore.ts",Configure SQLite and create a database schema for a Task Management App,Yet to Start
+CRUD Operations and Error Handling,"Implementing CRUD
+
+Exception Handling, Data Validation","Add CRUD functionality to the Task Management App
+with error handling and validation",Yet to Start
+Authentication & Authorization,"Introduction to JWT, Implementing Authentication",Add authentication to the Task Management App,Yet to Start
+Testing Basics,"Introduction to Unit Testing, Writing Unit Tests with Jest",Write unit tests for the Task Management App,Yet to Start
+Middleware & Interceptors,"Creating Middleware, Using Interceptors for Request Processing","Add middleware to the Task Management App (e.g., logging requests)",Yet to Start
+Deployment Basics,Deploying Encore.ts Apps,Deploy the Task Management App locally and test it,Yet to Start

@@ -1,0 +1,14 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to LangGraph & State Machines,"- What is LangGraph and how it extends LangChain
+- LangGraph vs vanilla LangChain
+- Concept of State Machines in AI workflows
+- Installing and initializing LangGraph
+- Defining states and transitions",,Yet to Start
+Building Stateful Agents & Conditional Logic,"- Defining node logic and memory
+- Using conditional branching in state transitions
+- Agent interaction with tools
+- Handling loopbacks and retries",,Yet to Start
+Real-World Workflow & Multi-Agent Coordination,"- Combining multiple agents in a workflow
+- Using LangGraph with OpenAI functions/tools
+- Observability and debugging
+- Deployment and testing tips",,Yet to Start

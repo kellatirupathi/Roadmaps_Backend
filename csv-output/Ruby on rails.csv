@@ -1,0 +1,37 @@
+Topics,Sub-topics,Project/App to Build,Status
+Ruby & Rails Fundamentals,"Ruby syntax
+Rails MVC architecture
+Git basics
+Bundler
+Rails CLI",Build a Blog App (CRUD for posts/comments),Yet to Start
+ActiveRecord & Databases,"Migrations
+associations (has_many/belongs_to) 
+validations
+seed data	","Create a Library Management System (books, authors, checkouts)",Yet to Start
+Forms & Validations,"Form helpers
+Strong Parameters
+model validations
+error handling	",Design a User Registration Portal with profile editing,Yet to Start
+Authentication & Authorization,"Devise gem
+JWT
+role-based access (Pundit)
+OAuth (Google/GitHub)	",Secure the Blog App with Multi-Role Users (Admin/Editor/Viewer),Yet to Start
+APIs & External Services,"RESTful APIs
+serializers (JSON:API)
+HTTParty
+caching with Redis        ",Build a Weather Dashboard (Fetch data from OpenWeatherMap API),Yet to Start
+Testing (RSpec),"Model/controller tests
+factories (FactoryBot)
+system tests
+test coverage        ",Add Test Suite to Library System (90%+ coverage),Yet to Start
+Advanced Features,"Background jobs (Sidekiq)
+Action Cable (WebSockets)
+file uploads (ActiveStorage)	",Create a Real-Time Chat App with file sharing,Yet to Start
+Deployment & DevOps,"Docker
+CI/CD (GitHub Actions)
+Heroku/AWS
+monitoring (New Relic)	",Dockerize and deploy the Chat App to Heroku,Yet to Start
+Performance Optimization,"Query optimization (Bullet)
+caching (Russian Doll)
+load testing (JMeter)	","Optimize the Blog App for 1k+ concurrent users
+Build an E-Commerce Platform (Products, Cart, Stripe, Reviews, CI/CD)",Yet to Start

@@ -1,0 +1,78 @@
+Topics,Sub-topics,Project/App to Build,Status
+Introduction to Electron,"• Overview of desktop applications
+• What is Electron?
+• Why use Electron?
+• Electron architecture (Chromium + Node.js)
+• Cross-platform capabilities",,Yet to Start
+Setting Up Development Environment,"• Installing Node.js and npm
+• Setting up Electron Forge
+• Project structure overview
+• package.json configuration",,Yet to Start
+Main Process vs Renderer Process,"• Two-process architecture
+• Main process responsibilities
+• Renderer process responsibilities
+• Process communication patterns",Simple calculator with separate process logic,Yet to Start
+Building User Interfaces,"• HTML/CSS in Electron
+• Using web frameworks (React, Vue, Angular)
+• Responsive design for desktop
+• CSS frameworks compatibility",Enhanced note-taking app with styled UI,Yet to Start
+IPC Communication,"• Inter-Process Communication (IPC)
+• ipcMain and ipcRenderer modules
+• Synchronous vs asynchronous communication
+• Message patterns",File explorer with process communication,Yet to Start
+Working with Native Menus,"• Creating application menus
+• Context menus
+• Menu item types and roles
+• Keyboard shortcuts",Note-taking app with comprehensive menus,Yet to Start
+Dialog and System Integration,"• Native dialogs (open, save, message)
+• System notifications
+• Clipboard access
+• Drag and drop functionality",Screenshot capture tool with system integration,Yet to Start
+File System Operations,"• Reading and writing files
+• Working with paths
+• Watching file changes
+• Handling large files",Markdown editor with file saving/loading,Yet to Start
+BrowserWindow Management,"• Creating and configuring windows
+• Window states and events
+• Multi-window applications
+• Frameless windows",Multi-window image viewer application,Yet to Start
+Webview and Embedded Content,"• Using webviews
+• Loading external content
+• Security considerations
+• Isolation options",Simple web browser application,Yet to Start
+Data Storage Solutions,"• localStorage and sessionStorage
+• IndexedDB in Electron
+• Using SQLite and other databases
+• Data encryption",Note-taking app with persistent storage,Yet to Start
+Automatic Updates,"• Electron's autoUpdater module
+• Update server setup
+• Update lifecycle
+• Staged rollouts",Implement auto-updates in an existing app,Yet to Start
+Performance Optimization,"• Memory management
+• CPU usage optimization
+• Startup time improvement
+• Profiling tools",Optimize markdown editor for performance,Yet to Start
+Security Best Practices,"• Content Security Policy
+• Node integration risks
+• Context isolation
+• Handling sensitive data",Security audit and hardening of an existing app,Yet to Start
+Packaging and Distribution,"• Creating installers with Electron Forge
+• Platform-specific builds
+• Code signing
+• App store submission requirements",Package and distribute the markdown editor app,Yet to Start
+Desktop Integration,"• Custom protocol handlers
+• File associations
+• Start at login
+• System tray integration",URL shortener with custom protocol handling,Yet to Start
+Hardware Access,"• Camera and microphone access
+• Bluetooth and USB devices
+• Screen recording
+• Permission handling",Simple webcam application,Yet to Start
+Testing Electron Applications,"• Unit testing with Jest/Mocha
+• Integration testing
+• End-to-end testing with Playwright
+• Test automation",Comprehensive test suite for an existing app,Yet to Start
+Crash Reporting and Analytics,"• Using the crashReporter module
+• Setting up a crash reporting server
+• Implementing analytics
+• Privacy considerations",Add crash reporting to a complex application,Yet to Start

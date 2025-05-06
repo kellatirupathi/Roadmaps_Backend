@@ -1,0 +1,19 @@
+Topic,Sub-Topics,Projects,Status
+Foundations of Agentic AI,"- What is Agentic AI?
+- Evolution from Prompting → Tools → Agents
+- Core components: Memory, Planning, Tools, Autonomy
+- Use cases and limitations",,Yet to Start
+"Planning, Memory & Tool Use","- Short-term vs Long-term memory
+- Action planning and decomposition
+- ReAct, MRKL, Reflexion strategies
+- Tool calling and chaining",,Yet to Start
+Multi-Agent Collaboration & Frameworks,"- Multi-agent architecture: roles and collaboration
+- Popular frameworks: LangGraph, CrewAI, AutoGen
+- Task routing and dependency mapping",,Yet to Start
+"Evaluation, Guardrails & Observability","- Agent state visualization
+- Prompt guards and rejection sampling
+- Handling hallucinations and retries
+- Logging and metrics for agents",,Yet to Start
+Deployment & Real-World Applications,"- Deploying agents (API, frontend, serverless)
+- Use cases: Document Q&A, Developer Assistant, CRM Bot
+- Ethics and cost optimization",,Yet to Start

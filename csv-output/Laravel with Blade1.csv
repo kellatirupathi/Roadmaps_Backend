@@ -1,0 +1,6 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to Laravel & Blade,Setting up Laravel Directory structure Blade templating basics Routing and Views Displaying dynamic data,,Yet to Start
+Building Dynamic Applications with Blade,Blade syntax (@foreach @if @else) Blade components (@include @extends) Passing data to views Blade forms Route model binding,,Yet to Start
+CRUD Operations with Laravel and Blade,Eloquent ORM Migrations Models Controllers Blade forms for input Displaying data dynamically,,Yet to Start
+Authentication & Authorization,Setting up authentication Blade directives for auth Protecting routes User roles and permissions Customizing authentication views,,Yet to Start
+Deployment & Best Practices,Configuring the .env file Database migration in production Debugging and error handling Deployment strategies Optimizing for production,,Yet to Start

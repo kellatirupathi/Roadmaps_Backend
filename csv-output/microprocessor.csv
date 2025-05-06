@@ -1,0 +1,17 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to Microprocessor Architecture,"- What is a microprocessor?
+- Basic components of a microprocessor (ALU, registers, control unit, buses)
+- Microprocessor architecture (e.g., 8085, 8086)
+- Machine cycles and instruction sets",,Yet to Start
+Programming Microprocessors,"- Assembly language basics (syntax, registers, memory)
+- Writing and executing assembly programs
+- Interrupts and interrupt handling
+- Basic arithmetic operations",,Yet to Start
+Interfacing with Peripherals,"- I/O ports and addressing modes
+- Interfacing with external devices (e.g., LEDs, switches, displays)
+- Understanding memory-mapped I/O
+- Timers and counters",,Yet to Start
+"Advanced Topics: Interrupts, Communication & Debugging","- Interrupts and interrupt service routines (ISRs)
+- Serial communication (UART, SPI)
+- Debugging and optimization techniques
+- Real-time systems applications",,Yet to Start

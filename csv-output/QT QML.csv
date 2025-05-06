@@ -1,0 +1,5 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to QT & QML,"Understanding QT Framework, QML Basics (Syntax, Components), Signals & Slots, UI Layouts, Property Bindings, Event Handling",,Yet to Start
+Advanced UI & Animations,"States & Transitions, Animation APIs, Custom QML Components, Styling with Qt Quick Controls, Dynamic UI Generation",,Yet to Start
+Data Handling & C++ Integration,"Model-View Programming, Fetching & Displaying Data (ListView, GridView), Integrating C++ with QML (Context Properties, Signal Passing), Working with JSON & APIs",,Yet to Start
+Capstone Project & Deployment,"Performance Optimization, Debugging QML Applications, Deploying QT Applications (Windows, Linux, Mobile), Future Trends in QT",,Yet to Start

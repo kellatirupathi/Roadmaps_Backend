@@ -1,0 +1,37 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to Azure & Core Services,"- Overview of Cloud Computing 
+ - Azure Portal Navigation 
+ - Resource Groups 
+ - Azure Storage (Blob, Table, Queue) 
+ - Virtual Networks (VNets) 
+ - Azure Compute Options (VMs, App Services)",,Yet to Start
+Azure App Services & Deployment,"- Azure App Services Overview 
+ - Web Apps 
+ - Deployment Slots 
+ - Continuous Deployment with GitHub Actions 
+ - Monitoring and Diagnostics 
+ - Scaling App Services",,Yet to Start
+Azure Functions & Serverless Computing,"- Introduction to Serverless Computing 
+ - Azure Functions Fundamentals 
+ - Triggers and Bindings 
+ - Durable Functions 
+ - Azure Logic Apps 
+ - Monitoring and Scaling Functions",,Yet to Start
+Azure Databases & Data Solutions,"- Azure SQL Database 
+ - Cosmos DB 
+ - Table Storage 
+ - Data Migration Strategies 
+ - Security and Compliance 
+ - Performance Tuning",,Yet to Start
+Azure DevOps & CI/CD Pipelines,"- Introduction to Azure DevOps 
+ - Pipelines (Build and Release) 
+ - Repositories 
+ - Test Plans 
+ - Infrastructure as Code (ARM Templates) 
+ - Monitoring and Logging",,Yet to Start
+"Security, Monitoring & Capstone Project","- Azure Security Center 
+ - Role-Based Access Control (RBAC) 
+ - Network Security Groups (NSGs) 
+ - Azure Monitor and Alerts 
+ - Application Insights 
+ - Cost Management and Optimization",,Yet to Start

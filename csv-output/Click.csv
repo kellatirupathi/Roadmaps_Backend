@@ -1,0 +1,18 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to Click & Basics,"- What is Click?
+- Installing Click
+- Creating First CLI Command
+- Command Functions & Help Text
+- Arguments vs Options",,Yet to Start
+Advanced Options & Validation,"- Required vs Optional Arguments
+- Default values & Prompting
+- Boolean flags
+- Input Validation with type and callback",,Yet to Start
+Command Groups & Reusability,"- Using @click.group()
+- Creating multiple subcommands (e.g., cli add, cli list)
+- Sharing options across commands
+- Aliases",,Yet to Start
+Environment & Deployment,"- Reading Environment Variables
+- Using Config Files
+- Packaging the CLI with setup.py or pyproject.toml
+- Making CLI globally executable",,Yet to Start

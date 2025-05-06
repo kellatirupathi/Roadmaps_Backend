@@ -1,0 +1,42 @@
+Topics,Sub-topics,Project/App to Build,Status
+Introduction to Kubernetes,"• Kubernetes architecture 
+ • Control plane components 
+ • Node components 
+ • Problems Kubernetes solves",Containerize a simple MERN application and deploy the Node.js backend using basic kubectl commands,Yet to Start
+Kubernetes Setup,"• Minikube installation 
+ • kubectl configuration 
+ • Kubernetes Dashboard 
+ • Local development setup",,Yet to Start
+Core Kubernetes Objects,"• Pods 
+ • ReplicaSets 
+ • Deployments 
+ • Services 
+ • ConfigMaps & Secrets","Deploy a complete MERN application with separate pods for MongoDB, Express API, and React frontend",Yet to Start
+Kubernetes YAML,"• YAML syntax 
+ • Resource definitions 
+ • Labels & selectors 
+ • Annotations",Create YAML manifests for all components of a MERN application with proper labeling and organization,Yet to Start
+Networking in Kubernetes,"• Service types 
+ • Ingress controllers 
+ • Network policies 
+ • DNS service discovery","Implement Ingress for a MERN application with proper routing to API and frontend, with TLS",Yet to Start
+Storage & State,"• Volumes 
+ • PersistentVolumes 
+ • StorageClasses 
+ • StatefulSets",Deploy MongoDB as a StatefulSet with persistent storage and proper backup strategies,Yet to Start
+Configuration & Secrets,"• ConfigMaps 
+ • Secrets 
+ • Environment variables 
+ • Best practices for configuration","Implement secure configuration for a MERN app (MongoDB credentials, API keys, JWT secrets, etc.) ",Yet to Start
+Advanced Deployments,"• Rolling updates 
+ • Canary deployments 
+ • Blue/Green deployments 
+ • Rollbacks",Implement zero-downtime deployment strategies for React frontend and Node.js API components,Yet to Start
+Resource Management,"• Resource requests & limits 
+ • HPA (Horizontal Pod Autoscaling) 
+ • VPA 
+ • Cluster Autoscaling",Configure auto-scaling for Node.js API based on CPU/memory usage and implement resource limits,Yet to Start
+Namespaces & RBAC,"• Namespace isolation 
+ • Role-Based Access Control 
+ • Service Accounts 
+ • Security contexts","Set up development, staging, and production environments for a MERN application with proper isolation",Yet to Start

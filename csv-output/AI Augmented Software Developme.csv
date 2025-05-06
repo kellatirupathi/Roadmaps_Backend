@@ -1,0 +1,15 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to AI-Augmented Development,"- What is AI-augmented development?
+- Common tools: GitHub Copilot, GPT-4, Codeium, Tabnine
+- IDE integrations
+- Limitations & responsible use
+- Prompting code assistants effectively",,Yet to Start
+AI in Code Generation & Refactoring,"- Writing functions from comments
+- Converting pseudocode to code
+- Refactoring legacy code with AI
+- Suggesting test cases and documentation",,Yet to Start
+Integrating AI APIs in Development Workflow,"- Using OpenAI/Claude APIs in dev workflows
+- Creating prompt templates for automated code generation
+- Automating documentation, test generation, and error explanation",,Yet to Start
+Real-World Scenarios & Best Practices,"- Using AI for debugging and performance optimization
+- Multi-language code translation",,Yet to Start

@@ -1,0 +1,52 @@
+Topic,Sub-Topic,Projects/Apps built,Status of Completion
+Introduction to HTML,"Build Your Own Static Website using Gen AI
+Introduction to HTML
+HTML Elements
+- Image Element
+- Heading Element
+- Paragraph Element
+- Button Element
+- Container Element
+- Anchor Element
+- Line Break Element
+- Horizontal Rule Element
+- Semantic Elements
+- Multimedia Elements
+HTML Attributes",Restaurant Website,Completed
+Introduction to CSS,"CSS Properties
+CSS Text Properties
+CSS Background Properties
+CSS Font Family
+CSS Font Size
+CSS Font Style
+CSS Font Weight
+CSS Text Decoration
+CSS Box Properties
+CSS Background Properties
+CSS Colors
+Reusability of CSS Rulesets
+CSS Box Model Properties
+CSS Selectors
+CSS Combinators
+CSS Specificity & Cascade
+CSS Gradients and Transitions 
+CSS Transforms and Animations
+CSS Animations
+CSS Flexbox
+CSS Grid
+CSS Media Queries","Photo Gallery
+Landing Page for a Product",Completed
+Introduction to Bootstrap,"How to use Bootstrap?
+Predefined Styles in Bootstrap
+Flexbox Properties
+Bootstrap Components
+Bootstrap Utilities
+Grid System
+Column Wrapping
+Spacing Utilities
+Background Color Utilities
+Bootstrap Navbar
+Bootstrap Spacing Utilities
+Flex Utilities","Simple Blog Website
+E-commerce Product Listing
+Weather Information Page",Completed

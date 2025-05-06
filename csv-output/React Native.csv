@@ -1,0 +1,64 @@
+Topics,Sub-topics,Project/App to Build,Status
+React Native Basics,"• What is React Native? 
+ • React Native vs React 
+ • Native apps vs Web apps 
+ • Expo vs React Native CLI",,Yet to Start
+Environment Setup,"• Installing Node.js & Expo CLI 
+ • Setting up Emulator/Simulator 
+ • Creating First App 
+ • Running on Device/Simulator","First “Hello World” App
+
+Set up the development environment and create a simple ""Hello World"" application to familiarize with the basics.",Yet to Start
+Styling in React Native,"• StyleSheet.create() 
+ • Flexbox Layout 
+ • Spacing & Borders 
+ • Platform-specific Styles",,Yet to Start
+Layout System,"• Dimensions & Responsiveness 
+ • Orientation Detection 
+ • Positioning (absolute/relative) 
+ • SafeAreaView & StatusBar",Instagram-style Post Layout,Yet to Start
+Core Components & APIs,"• View, Text, Image 
+ • ScrollView, FlatList 
+ • TouchableOpacity, Pressable 
+ • Modal, Alert, Button",Scrollable Image Gallery,Yet to Start
+Navigation,"• Stack Navigator 
+ • Tab Navigator 
+ • Drawer Navigator 
+ • Passing Route Params 
+ • Protected Routes","Multi-page E-commerce App
+
+Develop a simple e-commerce application with multiple pages, implementing navigation between product listings and details.",Yet to Start
+Forms & Inputs,"• TextInput (controlled) 
+ • Switch, Picker 
+ • Formik & Yup Validation",Login Form with Validation,Yet to Start
+State Management,"• useState, useEffect 
+ • Passing Props Between Screens 
+ • Context API",,Yet to Start
+Lists & UI,"• FlatList Basics 
+ • Item Separator & Header/Footer 
+ • Swipe to Delete 
+ • Pull to Refresh",Todo List with Swipe/Delete & Refresh,Yet to Start
+Reusable Components,"• Custom Button/Card/ListItem 
+ • Props & Children","Task Manager App
+
+Create a task manager application utilizing reusable components and state management to handle tasks effectively.",Yet to Start
+Debugging,"• Console Logs 
+ • Debug with Chrome 
+ • React Native Debugger / Flipper",Debug Todo List App,Yet to Start
+API Calls,"• Fetch / Axios 
+ • useEffect for API Calls 
+ • Loading / Error UI 
+ • AsyncStorage",Weather App using OpenWeather API,Yet to Start
+Authentication,"• Login / Signup UI 
+ • JWT Token Storage (AsyncStorage) 
+ • Protected Routes 
+ • Login Fail Handling",Social Login with Google/Facebook,Yet to Start
+Icons & Media,"• react-native-vector-icons 
+ • Image Picker, Video",,Yet to Start
+Platform-Specific Code,"• Platform.OS Usage 
+ • Linking Native Packages 
+ • Choosing Right Packages 
+ • Permissions (Camera, Storage)",Camera App with Permissions,Yet to Start
+Deployment,"• Generating APK / IPA 
+ • EAS Build (Expo) 
+ • Publishing to Stores",,Yet to Start

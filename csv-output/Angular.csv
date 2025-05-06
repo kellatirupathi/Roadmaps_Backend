@@ -1,0 +1,95 @@
+Topic,Sub-Topic,Projects,Status
+Angular Overview & Setup,"Angular CLI
+Project Structure
+TypeScript in Angular
+Module System
+Components Overview",,Yet to Start
+Components Deep Dive,"Component Lifecycle
+Decorators (@Component
+@Input
+@Output)
+Template Syntax
+Styling Components
+ViewEncapsulation",,Yet to Start
+State Management Basics,"Local State
+BehaviorSubject
+Service-level State Management",,Yet to Start
+Data Binding & Event Handling,"One-way & Two-way Binding
+Event Binding
+ngModel
+Template Reference Variables",,Yet to Start
+Directives (Built-in),"ngIf
+ngFor
+ngSwitch
+ngClass
+ngStyle",,Yet to Start
+Custom Directives,"Creating Custom Attribute Directive
+Structural Directive Basics
+HostListener
+HostBinding",,Yet to Start
+Services & Dependency Injection,"Creating Services
+Injectable Decorator
+Hierarchical Injectors
+Singleton Services",,Yet to Start
+Routing & Navigation,"RouterModule
+Routes Configuration
+RouterLink
+Route Parameters
+Nested Routes
+Guards Overview",,Yet to Start
+Forms - Template Driven,"FormsModule
+ngForm
+Form Validation (required
+minlength
+etc.)
+Handling Submissions
+",,Yet to Start
+Forms - Reactive Forms,"ReactiveFormsModule
+FormBuilder
+FormGroup
+FormControl
+Validators
+Custom Validators",,Yet to Start
+Pipes in Angular,"Built-in Pipes (date
+currency
+slice
+etc.)
+Custom Pipes
+Pure vs Impure Pipes",,Yet to Start
+HTTPClient & APIs,"HttpClientModule
+GET/POST Requests
+Observables
+Error Handling
+async pipe",,Yet to Start
+Component Communication,"Parent-Child via @Input/@Output
+ViewChild
+Service-based communication",,Yet to Start
+Lazy Loading & Module Architecture,"NgModules
+Lazy Loaded Modules
+Feature Modules
+Shared Modules",,Yet to Start
+Animations in Angular,"Angular Animations API
+States & Transitions
+Triggers
+Animation Callbacks",,Yet to Start
+Error Handling & Debugging,"Global Error Handling
+try/catch
+Logging Services
+Angular DevTools",,Yet to Start
+Unit Testing,"Testing Components
+Services
+Forms using Jasmine & Karma
+TestBed Setup",,Yet to Start
+E2E Testing with Cypress,"Setup Cypress
+Write Tests for Navigation
+Form Submission
+HTTP Mocks",,Yet to Start
+Deployment,"Angular Build Optimization
+Environment Configs
+Hosting on Firebase/Vercel
+Versioning",,Yet to Start
+Capstone Integration Day,"Performance Check
+Code Clean-up
+Folder Restructure
+Final Review
+Resume Ready Project Packaging",,Yet to Start

@@ -1,0 +1,19 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to APIs & HTTP Fundamentals,"- What is an API?
+- REST vs SOAP vs GraphQL
+- HTTP methods (GET, POST, PUT, DELETE)
+- Headers, query params, status codes
+- JSON structure & response handling",,Yet to Start
+Working with APIs in Code,"- Making API requests using fetch, axios, requests (JS/Python)
+- Parsing and using response data
+- Error handling & retry logic
+- Rate limits & timeouts",,Yet to Start
+Authentication & Secured APIs,"- API Keys, OAuth 2.0, JWT
+- Handling token-based auth
+- Refresh tokens and session storage
+- Securing API calls on frontend/backend",,Yet to Start
+Real-World Integration & Best Practices,"- Webhooks vs APIs
+- Pagination and filtering
+- Logging API calls
+- API documentation (Swagger/Postman)
+- Building a wrapper service",,Yet to Start

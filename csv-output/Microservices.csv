@@ -1,0 +1,19 @@
+Topic,Sub-Topics,Projects,Status
+Microservices Basics & Architecture,"- What is Microservices Architecture?
+- Monolith vs Microservices
+- Core principles (Decoupling, Autonomy, Scalability)
+- Domain-Driven Design basics
+- Communication: Sync vs Async",,Yet to Start
+Building Services & Communication,"- Setting up services using Node.js/Java/Python
+- REST-based communication (HTTP)
+- Using Postman to test APIs
+- Service discovery intro (manual config)",,Yet to Start
+"API Gateway, Load Balancing & Database","- What is an API Gateway?
+- Using Express Gateway or NGINX as API Gateway
+- Load balancing concepts
+- Database per service pattern
+- Inter-service auth",,Yet to Start
+Messaging & Deployment,"- Message Brokers: Kafka/RabbitMQ Basics
+- Async communication intro
+- Containerization with Docker
+- CI/CD pipeline basics for Microservices",,Yet to Start

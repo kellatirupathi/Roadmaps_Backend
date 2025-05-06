@@ -1,0 +1,17 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to Elasticsearch & Setup,"- What is Elasticsearch? 
+ - Installing & Setting Up Elasticsearch 
+ - Understanding Nodes, Clusters, and Indices 
+ - Ingesting Data into Elasticsearch",,Yet to Start
+Querying & Search Fundamentals,"- Understanding Documents & Mappings 
+ - Query DSL (Match, Term, Bool, Range Queries) 
+ - Aggregations & Filters 
+ - Sorting & Pagination",,Yet to Start
+Data Indexing & Performance Optimization,"- Bulk Indexing & Updates 
+ - Analyzers & Tokenizers 
+ - Sharding & Replication 
+ - Query Performance Optimization",,Yet to Start
+"Integration, Monitoring & Deployment","- Integrating Elasticsearch with Logstash & Kibana 
+ - Monitoring with Elastic Stack 
+ - Securing Elasticsearch (Role-based Access Control, SSL) 
+ - Scaling Elasticsearch in Production",,Yet to Start

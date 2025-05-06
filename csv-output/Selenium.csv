@@ -1,0 +1,40 @@
+Topic,Sub-Topic,Projects,Status
+Selenium Setup,"PIP
+Selenium WebDriver
+ChromeDriver setup 
+Waits (implicit/explicit)",,Yet to Start
+Locators & Basic Interactions        ,"XPath
+CSS Selectors
+Selenium methods (click, send_keys)
+handling alerts        ",,Yet to Start
+Advanced UI Actions,"Frames
+dropdowns (Select Class) 
+file uploads 
+keyboard actions 
+cookies	",,Yet to Start
+Test Frameworks (pytest)	,"pytest setup
+fixtures
+parameterization
+tagging tests
+assertions	",,Yet to Start
+Reporting & Logging	,"HTML reports 
+Allure reporting 
+logging 
+screenshot on failure",,Yet to Start
+Page Object Model (POM)	,"Designing POM
+reusable components
+centralized configs
+inheritance        ",,Yet to Start
+Cross-Browser Testing	,"Firefox/Edge setup
+Selenium Grid basics
+parallel execution        ",,Yet to Start
+CI/CD Integration	,"GitHub Actions
+Dockerized Selenium Grid
+Jenkins basics        ",,Yet to Start
+Cloud Testing Platforms	,"BrowserStack/Sauce Labs setup
+cloud execution
+local testing tunnel        ",,Yet to Start
+Capstone Project,"End-to-end testing 
+scalability 
+reporting 
+CI/CD        ",,Yet to Start

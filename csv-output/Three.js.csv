@@ -1,0 +1,9 @@
+Topic,Sub-Topics,Projects,Status
+JavaScript & WebGL Basics,"ES6, Modules, Canvas API, WebGL Concepts, Shaders",,Yet to Start
+Three.js Fundamentals,"Scene, Camera, Renderer, Basic Shapes, Materials",,Yet to Start
+Lighting & Textures,"Ambient, Point, Spot Lights, Textures, UV Mapping",,Yet to Start
+Geometry & Advanced Objects,"Custom Geometry, Buffers, Extrusions, Load Models",,Yet to Start
+Animation & Interactivity,"Tween.js, GSAP, User Inputs, Raycasting, Events",,Yet to Start
+Physics & Performance,"Cannon.js, Ammo.js, Optimizations, Shadows, LOD",,Yet to Start
+WebXR & React Three Fiber,"VR, AR, Integration with React Three Fiber",,Yet to Start
+Capstone & Deployment,"Webpack, Vite, Hosting (Vercel, Netlify), SEO",,Yet to Start

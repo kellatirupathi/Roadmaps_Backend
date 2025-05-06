@@ -1,0 +1,35 @@
+Topic,Sub-Topic,Projects,Status
+Performance Testing Fundamentals	,"Performance metrics (TTFB, RPS)
+types of tests (load, stress)
+k6 installation
+basic scripting	",,Yet to Start
+Scripting HTTP Requests	,"GET/POST/PUT/DELETE methods
+headers
+query parameters
+request chaining	",,Yet to Start
+Advanced Scripting	,"Authentication (JWT/OAuth)
+environment variables
+setup/teardown hooks	",,Yet to Start
+Load Testing Scenarios	,"Virtual users (VUs)
+stages (ramp-up/steady-state)
+thresholds
+error handling	",,Yet to Start
+Stress & Spike Testing	,"Breaking point analysis
+handling sudden traffic spikes
+error rate monitoring	",,Yet to Start
+Frontend-Backend Correlation,"Web Vitals (LCP, FID)
+browser DevTools
+correlating k6 metrics with Lighthouse	",,Yet to Start
+CI/CD Integration	,"GitHub Actions
+Dockerized k6
+Slack alerts 
+threshold enforcement	",,Yet to Start
+Custom Metrics & Distributed Tests	,"Custom metrics (trends, counters)
+distributed execution
+cloud load zones	",,Yet to Start
+Result Analysis & Reporting	,"InfluxDB/Grafana dashboards 
+HTML/PDF reports 
+identifying bottlenecks	",,Yet to Start
+Capstone Project	,"End-to-end performance testing
+scalability planning
+compliance reporting	",,Yet to Start

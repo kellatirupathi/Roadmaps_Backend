@@ -1,0 +1,33 @@
+Topics,Sub-topics,Project/App to Build,Status
+Intro to Node.js & Modules,"What is Node.js?
+Node REPL
+Node CLI
+CommonJS Modules: module.exports
+exports
+require()",Create a modular console-based calculator using CommonJS exports/imports,Yet to Start
+Core Modules & NPM,"Core Modules: path
+fs; NPM CLI Commands
+Installing Third-Party Packages
+Using `date-fns`",Build a CLI app to log timestamped notes using date-fns and file system,Yet to Start
+REST APIs Fundamentals,"What are REST APIs?
+REST Principles
+Get Books API
+Filtering books
+RESTful Route Design",Create a mini Express server with a `/books` endpoint that supports query filtering,Yet to Start
+Debugging Common Errors (Part 1),"Unknown Imports
+Server in Multiple Terminals
+Wrong URLs
+Missing Function Calls
+Incorrect File Paths",Build and debug a broken Express app by simulating common mistakes (guided lab-style project),Yet to Start
+Debugging + REST Troubleshooting,"Request Methods
+Path Params
+Query Formatting
+Replacing SQLite Methods
+Wrong DB Paths
+Wrong Port Numbers","Add Path Params & Query Filters to `/books/:id`, fix simulated bugs, and return proper API responses",Yet to Start
+Auth & Security (Part 1),"bcrypt.hash()
+bcrypt.compare()
+Goodreads Register/Login APIs
+JWT: jwt.sign()
+jwt.verify()
+Middleware in Express","Implement full auth flow: Register/Login with bcrypt, token generation, and protected `/profile` API",Yet to Start

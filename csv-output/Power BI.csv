@@ -1,0 +1,16 @@
+Topics,Sub-topics,Project/App to Build,Status
+"Introduction to Power BI,Overview of Power BI and its components","Installing and setting up Power BI Desktop
+Understanding the interface and basic functionalities
+Connecting to various data sources","Importing data into Power BI,Import data from an Excel file and create a simple report showcasing basic visualizations.",Yet to Start
+"Data Cleaning and Transformation,Introduction to Power Query","Data cleaning techniques
+Data transformation methods
+Handling missing or inconsistent data","Merging and appending queries,""Clean and transform a messy dataset to prepare it for analysis, ensuring data quality and consistency.""",Yet to Start
+"Data Modeling and DAX,Understanding data modeling concepts","Creating relationships between tables
+Introduction to DAX (Data Analysis Expressions)
+Writing basic DAX formulas","Creating calculated columns and measures,Develop a data model with related tables and implement DAX calculations to derive new insights.",Yet to Start
+"Advanced Visualizations and Interactivity,Designing advanced visualizations","Utilizing filters and slicers
+Implementing drill-through and drill-down features
+Enhancing reports with tooltips and bookmarks","Understanding the psychology of effective data visualization,Create an interactive dashboard with advanced visualizations that provide deep insights into the dataset.",Yet to Start
+"Power BI Service and Deployment,Publishing reports to Power BI Service","Configuring data refresh schedules
+Sharing and collaborating on reports
+Managing permissions and security settings","Best practices for deploying Power BI solutions,""Publish the developed dashboard to Power BI Service, set up automatic data refresh, and share it with stakeholders.""",Yet to Start

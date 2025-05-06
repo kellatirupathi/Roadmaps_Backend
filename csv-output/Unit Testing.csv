@@ -1,0 +1,25 @@
+Topic,Sub-Topic,Projects,Status
+Testing Basics & Setup,"Testing Pyramid
+Unit vs Integration
+Jest + RTL Setup
+Testable Code Structure",,Yet to Start
+Component & State Testing,"Rendering
+Queries
+Props
+State
+Event Triggers
+Conditional Rendering",,Yet to Start
+Async & Forms Testing,"Mocking APIs (MSW)
+async/await
+Form Validation
+User Input Simulation",,Yet to Start
+Advanced Components & Integration,"Testing Context
+Custom Hooks
+Routing
+Redux/Zustand
+Shared State",,Yet to Start
+Debugging & CI/CD,"Jest Coverage Reports
+Debugging Failing Tests
+GitHub Actions
+Pre-push Hooks",,Yet to Start
+Capstone Project,"Full Test Suite (Components, Async, Forms, Routing, CI/CD)",,Yet to Start

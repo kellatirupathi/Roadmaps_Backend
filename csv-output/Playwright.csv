@@ -1,0 +1,42 @@
+Topic,Sub-Topic,Projects,Status
+Playwright Setup & Fundamentals        ,"Playwright installation
+Browser automation basics
+Navigation
+Selectors
+Auto-waits",,Yet to Start
+Locators & Basic Interactions	,"CSS/XPath selectors
+Text-based locators
+Handling buttons/inputs
+Alerts	",,Yet to Start
+Advanced UI Actions	,"Frames
+File uploads
+Drag-and-drop
+Keyboard/mouse actions
+Hover states	",,Yet to Start
+Test Frameworks (Jest/Mocha)	,"Test structure (describe/it)
+Hooks (before/after)
+Assertions
+Parallel runs	",,Yet to Start
+Mocking & Network Interception	,"Mock API responses
+Network stubbing
+Handle GraphQL
+Error scenarios	",,Yet to Start
+Reporting & Visual Testing	,"HTML/Allure reports
+Screenshot/Video capture
+Visual regression (screenshots)	",,Yet to Start
+Page Object Model (POM),"POM design
+Reusable components
+Base pages
+Config management	",,Yet to Start
+Cross-Browser & Mobile Testing	,"Chromium/WebKit/Firefox
+Mobile emulation
+Device descriptors 
+Geolocation	",,Yet to Start
+CI/CD & Cloud Testing	,"GitHub Actions
+Dockerized Playwright
+BrowserStack/Sauce Labs integration	",,Yet to Start
+Capstone Project,"End-to-end testing
+Scalability
+POM
+CI/CD
+Reports        ",,Yet to Start

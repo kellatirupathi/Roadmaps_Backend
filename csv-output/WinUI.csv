@@ -1,0 +1,16 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Environment Setup,"- What is WinUI?
+- WinUI vs WPF vs UWP
+- Installing Visual Studio with WinUI support
+- Project structure overview
+- First WinUI 3 App
+- Using XAML for layout",,Yet to Start
+UI Controls & Data Binding,"- Using core controls (Button, TextBox, ListView, GridView)
+- Layout controls (StackPanel, Grid, WrapPanel)
+- Binding data with XAML
+- Styling and theming
+- Handling events",,Yet to Start
+"MVVM, Navigation & Packaging","- Implementing MVVM in WinUI
+- Using ObservableCollection and INotifyPropertyChanged
+- Frame-based navigation
+- App packaging and deployment (MSIX)",,Yet to Start

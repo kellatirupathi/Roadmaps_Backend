@@ -1,0 +1,23 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Cypress Setup,"- What is Cypress?
+- Key features vs Selenium
+- Installing Cypress
+- Folder structure and test runner
+- Writing the first test case",,Yet to Start
+Locators & Assertions,"- CSS selectors, cy.get(), aliases
+- Best practices for selecting elements
+- should(), expect()
+- Chaining commands",,Yet to Start
+Custom Commands & Hooks,"- Creating reusable custom commands
+- Using beforeEach, afterEach hooks
+- cy.request() vs cy.visit()",,Yet to Start
+"Handling Forms, Alerts & File Uploads","- Working with input forms, checkboxes, radio buttons
+- Handling alerts, modals, confirmations
+- File uploads and downloads",,Yet to Start
+API Testing & Intercepting Requests,"- Testing REST APIs with cy.request()
+- Using cy.intercept() for stubbing and spying
+- Mocking network responses",,Yet to Start
+CI Integration & Best Practices,"- Running Cypress in headless mode
+- Integrating with CI tools (GitHub Actions, Jenkins)
+- Screenshots & video reports
+- Folder organization",,Yet to Start

@@ -1,0 +1,18 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & WSGI Fundamentals,"- What is Werkzeug?
+- WSGI Protocol Overview
+- Role of Werkzeug in Flask
+- Creating a Basic WSGI App
+- Request and Response objects",,Yet to Start
+"Routing, URL Rules & Request Data","- werkzeug.routing and Map, Rule
+- Dynamic URLs
+- Parsing query parameters and form data
+- Using Request for user input",,Yet to Start
+Middleware & Error Handling,"- Creating Middleware in Werkzeug
+- Custom error responses
+- Using werkzeug.exceptions
+- Logging and Debugging",,Yet to Start
+"Sessions, Security & Deployment","- Working with werkzeug.security (generate_password_hash, check_password_hash)
+- Basic session management with cookies
+- Serving static files
+- Deployment with WSGI servers (Gunicorn, uWSGI)",,Yet to Start

@@ -1,0 +1,17 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to Optimization & Techniques,"- What is Optimization? Real-world use-cases
+- Types: Linear, Integer, Combinatorial, Nonlinear
+- Classical methods: Greedy, Gradient Descent, LP/IP
+- Understanding constraints, objective functions",,Yet to Start
+Optimization Tools & Solvers,"- Overview of tools: PuLP, SciPy Optimize, Google OR-Tools, Gurobi, CPLEX
+- Solver APIs and formats (LP, MPS)
+- Constraint formulation
+- Sensitivity analysis basics",,Yet to Start
+Metaheuristics & AI-based Optimization,"- Genetic Algorithms, Simulated Annealing, Tabu Search
+- Hyperparameter tuning in ML (Bayesian Optimization, Grid Search)
+- Evolutionary computation concepts
+- Randomized vs Deterministic approaches",,Yet to Start
+Integration & Real-world Applications,"- Integrating optimizers into software systems
+- Scheduling and routing problems (e.g., delivery systems)
+- Optimization for pricing, portfolio, and logistics
+- Dashboards & Reporting",,Yet to Start

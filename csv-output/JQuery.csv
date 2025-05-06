@@ -1,0 +1,7 @@
+Topics,Sub-topics,Project/App to Build,Status
+Introduction to jQuery,"Setting up jQuery, jQuery CDN vs Local, Syntax Overview, Selectors, DOM Ready Event, Basic Events",Interactive FAQ Accordion,Yet to Start
+DOM Manipulation with jQuery,"Add/Remove Elements, Modify HTML/CSS, Chaining, Traversing, DOM Hierarchy, Class Manipulation",Create a Dynamic Product Cards Grid,Yet to Start
+jQuery Effects and Animations,"Hide/Show, Slide, Fade, Custom Animations, Animation Queues, Controlling Speed",Build an Animated Image Gallery with Filters,Yet to Start
+jQuery and Forms,"Form Input Handling, Validation, Event Binding, Serialize(), PreventDefault, UX Improvements",Form Validation App with Live Error Display,Yet to Start
+AJAX with jQuery,"$.ajax(), $.get(), $.post(), Fetching JSON, Error Handling, Loading Indicators",Weather Dashboard using jQuery AJAX and OpenWeather API,Yet to Start
+jQuery in Real-World Stack,"Working with APIs, jQuery + Bootstrap UI, Refactoring for Readability, Debugging jQuery, jQuery vs Vanilla JS, jQuery + React Coexistence",Admin Panel UI with AJAX-based User Search,Yet to Start

@@ -1,0 +1,5 @@
+Topic,Sub-Topic,Projects,Status
+Rust Basics & Setup,"Installing Rust & Cargo, Variables & Mutability, Data Types, Ownership & Borrowing, References & Slices, Basic Functions",,Yet to Start
+Advanced Rust Concepts,"Structs & Enums, Pattern Matching, Traits & Generics, Error Handling, Lifetimes, Modules & Crates",,Yet to Start
+Concurrency & Performance,"Threads & Mutex, Async/Await, Tokio & Async-std, Memory Management, Unsafe Rust, Benchmarking",,Yet to Start
+System Programming & Web Dev,"Writing and Using Libraries, Networking with Rust, Actix Web & Warp, Database Integration (SQLx, Diesel), Testing & Debugging",,Yet to Start

@@ -1,0 +1,9 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to Encore.ts,"What is Encore.ts, Setting up Development Environment, Overview of Encore Architecture, Key Concepts: Services, APIs, Databases",,Yet to Start
+Services & APIs,"Creating Services, Defining Endpoints, Request and Response Types, HTTP Routing, Authorization Basics",,Yet to Start
+Data Modeling & Persistence,"Using Encore's Database Models, Defining Schemas, Performing CRUD Operations, Migrations in Encore.ts",,Yet to Start
+Authentication & Authorization,"Implementing Auth Middleware, Role-Based Access Control (RBAC), Protecting APIs, Managing Tokens",,Yet to Start
+Advanced API Design,"Validation Techniques, Error Handling Best Practices, Pagination, Filtering, Sorting API Responses",,Yet to Start
+Background Jobs & Event Systems,"Creating Background Tasks, Scheduled Jobs, Event-driven Architecture in Encore, Using Message Queues",,Yet to Start
+DevOps and Deployment,"Deploying with Encore CLI, Managing Environments (Dev, Staging, Production), Monitoring and Logs, Debugging Strategies",,Yet to Start
+Final Project & Best Practices,"Encore.ts Design Patterns, Microservice Best Practices, API Documentation with Encore, Code Reviews and Refactoring",,Yet to Start

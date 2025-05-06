@@ -1,0 +1,5 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to Ethereum & Smart Contracts,"Ethereum basics, Blockchain fundamentals, Smart Contracts, Gas & Transactions, Solidity Basics, Remix IDE",,Yet to Start
+Advanced Solidity & Smart Contract Development,"Solidity Functions, Storage & Memory, Events & Modifiers, Mappings & Structs, Inheritance & Libraries, Error Handling,ERC-20, ERC-721, ERC-1155 Basics & Differences",,Yet to Start
+Web3.js & DApp Development,"Web3.js Basics, Connecting Frontend with Blockchain, Interacting with Smart Contracts, MetaMask & Wallet Integration, Handling Transactions",,Yet to Start
+"Security, Optimization & Deployment","Smart Contract Security (Reentrancy, Overflows, Front-running), Gas Optimization, Testing & Debugging with Hardhat, Deployment to Testnet & Mainnet, Deploying on Base , Best Practices",,Yet to Start

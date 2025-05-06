@@ -1,0 +1,14 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Local Setup,"- What is Gunicorn?
+- WSGI & ASGI basics
+- Installing Gunicorn
+- Gunicorn CLI usage: --workers, --bind, --reload
+- Worker types: sync, async, uvicorn",,Yet to Start
+Application Tuning & Logging,"- Choosing the right worker type
+- Gunicorn configuration file
+- Timeout, keep-alive, and worker limits
+- Logging with --access-logfile, --error-logfile",,Yet to Start
+Production Deployment & Monitoring,"- Serving with Nginx reverse proxy
+- Setting up Gunicorn as a Systemd service
+- Auto-restart, scaling tips
+- Monitoring tools (e.g., htop, journalctl)",,Yet to Start

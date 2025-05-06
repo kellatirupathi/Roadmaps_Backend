@@ -1,0 +1,9 @@
+Topic,Sub-Topics,Projects,Status
+Foundations of ML & Python,"Python for ML, NumPy, Pandas, Matplotlib, Scikit-Learn, Data Preprocessing",,Yet to Start
+Supervised Learning Basics,"Linear Regression, Logistic Regression, Evaluation Metrics",,Yet to Start
+Advanced Supervised Learning,"Decision Trees, Random Forest, SVM, Hyperparameter Tuning",,Yet to Start
+Unsupervised Learning,"Clustering (K-Means, DBSCAN), Dimensionality Reduction (PCA, t-SNE)",,Yet to Start
+Neural Networks & Deep Learning,"Perceptron, MLP, Activation Functions, Backpropagation, Optimization (SGD, Adam)",,Yet to Start
+CNNs for Computer Vision,"Convolutional Layers, Pooling, CNN Architectures (VGG, ResNet)",,Yet to Start
+NLP & Transformer Models,"Word Embeddings, RNNs, LSTMs, Attention Mechanism, Transformers (BERT, GPT)",,Yet to Start
+ML Deployment & MLOps,"Model Deployment (Flask/FastAPI), Docker, CI/CD for ML, Cloud AI Services (AWS/GCP)",,Yet to Start

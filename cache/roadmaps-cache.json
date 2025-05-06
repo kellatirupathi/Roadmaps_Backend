@@ -1,0 +1,59 @@
+{
+  "timestamp": 1746299672614,
+  "data": [
+    {
+      "name": "Dummy sample.html",
+      "url": "https://niat-web.github.io/Roadmaps/Dummy sample.html",
+      "size": 72501,
+      "sha": "6606422424211c590e4b3c670068ca60c41dd37f",
+      "download_url": "https://raw.githubusercontent.com/niat-web/Roadmaps/main/Dummy%20sample.html",
+      "html_url": "https://github.com/niat-web/Roadmaps/blob/main/Dummy%20sample.html",
+      "createdDate": "Apr 30, 2025"
+    },
+    {
+      "name": "NIAT Samples.html",
+      "url": "https://niat-web.github.io/Roadmaps/NIAT Samples.html",
+      "size": 16333,
+      "sha": "d9a97ab895d87f2321699539a9729f9bef58b566",
+      "download_url": "https://raw.githubusercontent.com/niat-web/Roadmaps/main/NIAT%20Samples.html",
+      "html_url": "https://github.com/niat-web/Roadmaps/blob/main/NIAT%20Samples.html",
+      "createdDate": "May 1, 2025"
+    },
+    {
+      "name": "NIAT X Cognizant.html",
+      "url": "https://niat-web.github.io/Roadmaps/NIAT X Cognizant.html",
+      "size": 16597,
+      "sha": "94d93a9c759913f9d9765b15ff7d22df3af11e47",
+      "download_url": "https://raw.githubusercontent.com/niat-web/Roadmaps/main/NIAT%20X%20Cognizant.html",
+      "html_url": "https://github.com/niat-web/Roadmaps/blob/main/NIAT%20X%20Cognizant.html",
+      "createdDate": "Apr 30, 2025"
+    },
+    {
+      "name": "NIAT X LoQal AI Ventures.html",
+      "url": "https://niat-web.github.io/Roadmaps/NIAT X LoQal AI Ventures.html",
+      "size": 17138,
+      "sha": "3226f760065d6a18259063f76bbe972922e8b327",
+      "download_url": "https://raw.githubusercontent.com/niat-web/Roadmaps/main/NIAT%20X%20LoQal%20AI%20Ventures.html",
+      "html_url": "https://github.com/niat-web/Roadmaps/blob/main/NIAT%20X%20LoQal%20AI%20Ventures.html",
+      "createdDate": "Apr 30, 2025"
+    },
+    {
+      "name": "NIAT X Prodgain.html",
+      "url": "https://niat-web.github.io/Roadmaps/NIAT X Prodgain.html",
+      "size": 16563,
+      "sha": "8d404797f94e212f592ea4d7036a5347de6f48e9",
+      "download_url": "https://raw.githubusercontent.com/niat-web/Roadmaps/main/NIAT%20X%20Prodgain.html",
+      "html_url": "https://github.com/niat-web/Roadmaps/blob/main/NIAT%20X%20Prodgain.html",
+      "createdDate": "Apr 30, 2025"
+    },
+    {
+      "name": "sample_12.html",
+      "url": "https://niat-web.github.io/Roadmaps/sample_12.html",
+      "size": 14458,
+      "sha": "a1e60321c90a6d76bd2ef2ef494510daf7f6a367",
+      "download_url": "https://raw.githubusercontent.com/niat-web/Roadmaps/main/sample_12.html",
+      "html_url": "https://github.com/niat-web/Roadmaps/blob/main/sample_12.html",
+      "createdDate": "May 4, 2025"
+    }
+  ]
+}

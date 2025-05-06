@@ -1,0 +1,13 @@
+Topic,Sub-Topic,Projects,Status
+C# Basics & Fundamentals,"Syntax, Variables, Data Types, Operators, Control Flow",,Yet to Start
+Object-Oriented Programming,"Classes, Objects, Inheritance, Polymorphism, Encapsulation",,Yet to Start
+Collections & Generics,"Lists, Dictionaries, Queues, Stacks, Generic Methods",,Yet to Start
+Exception Handling & Debugging,"Try-Catch, Finally, Custom Exceptions, Debugging in VS",,Yet to Start
+File I/O & Serialization,"Reading/Writing Files, JSON & XML Serialization",,Yet to Start
+LINQ & Data Manipulation,"LINQ Queries, Lambda Expressions, IEnumerable, IQueryable",,Yet to Start
+Asynchronous Programming,"Async/Await, Tasks, Multithreading, Parallelism",,Yet to Start
+Database Connectivity,"ADO.NET, Entity Framework, SQL Queries",,Yet to Start
+REST API Development,"Creating APIs with ASP.NET Core, Routing, Controllers",,Yet to Start
+Design Patterns & Best Practices,"Singleton, Factory, Repository, Dependency Injection",,Yet to Start
+Unit Testing & TDD,"xUnit/NUnit, Mocking, Test-Driven Development",,Yet to Start
+Capstone Project,"Full-Stack App integrating APIs, DB, Async Code",,Yet to Start

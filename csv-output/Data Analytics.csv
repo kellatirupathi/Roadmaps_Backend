@@ -1,0 +1,45 @@
+Topics,Sub-topics,Project/App to Build,Status
+Introduction to Data Streaming,"• Batch vs. Stream Processing
+• Event-driven architecture
+• Real-time analytics use cases
+• Streaming data platforms overview",,Yet to Start
+Apache Kafka Fundamentals,"• Kafka architecture 
+ • Topics & partitions 
+ • Producers & consumers 
+ • Brokers & clusters",Set up a single-node Kafka cluster and implement basic producer/consumer applications,Yet to Start
+Kafka Producers,"• Producer API 
+ • Serialization 
+ • Partitioning strategies 
+ • Delivery guarantees",Multi-threaded producer with custom partitioning,Yet to Start
+Kafka Consumers,"• Consumer API 
+ • Consumer groups 
+ • Offset management 
+ • Rebalancing",Fault-tolerant consumer group application,Yet to Start
+Kafka Streams,"• Stream processing concepts 
+ • KStreams & KTables 
+ • Stateless operations 
+ • Stateful processing",Real-time data transformation pipeline,Yet to Start
+Kafka Connect,"• Source & sink connectors 
+ • Connector configuration 
+ • Data transformation 
+ • Error handling",Data pipeline with database integration,Yet to Start
+PySpark Basics,"• Spark architecture 
+ • RDDs 
+ • SparkContext 
+ • Transformations & actions",Basic data processing application,Yet to Start
+Spark DataFrames,"• DataFrame API 
+ • Schema definition 
+ • Data operations 
+ • SQL queries",Data analysis app with complex queries,Yet to Start
+Spark Streaming,"• DStreams 
+ • Windowed operations 
+ • State management 
+ • Fault tolerance",Real-time analytics dashboard,Yet to Start
+Kafka-Spark Integration,"• Spark Kafka connector 
+ • Direct stream approach 
+ • Exactly-once semantics 
+ • Performance tuning",End-to-end streaming analytics pipeline,Yet to Start
+Advanced Analytics with PySpark,"• MLlib 
+ • GraphX 
+ • Pipeline API 
+ • Model deployment",Machine learning pipeline with streaming data,Yet to Start

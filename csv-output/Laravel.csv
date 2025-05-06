@@ -1,0 +1,7 @@
+Topic,Sub-Topics,Projects,Status
+PHP Fundamentals & Laravel Setup,"PHP Syntax, OOP in PHP, Composer, Laravel Installation, MVC Architecture, Routing & Middleware",,Yet to Start
+Database & Eloquent ORM,"Database Migrations, Seeding, Eloquent Relationships, Query Builder, CRUD Operations, Pagination",,Yet to Start
+Authentication & Authorization,"Laravel Authentication, Middleware for Access Control, Roles & Permissions, API Authentication (Sanctum/Passport), User Management",,Yet to Start
+REST APIs & Services,"Building RESTful APIs, API Resources, Request Validation, Rate Limiting, Caching, Exception Handling",,Yet to Start
+Testing & Deployment,"Unit & Feature Testing (PHPUnit), TDD with Laravel, Debugging, Laravel Queues, Deployment (Forge/Vapor), CI/CD Pipelines",,Yet to Start
+Advanced Backend Features,"Event Broadcasting (WebSockets), Laravel Horizon, Task Scheduling, Performance Optimization, Microservices with Laravel",,Yet to Start

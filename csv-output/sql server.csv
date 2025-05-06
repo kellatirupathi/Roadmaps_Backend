@@ -1,0 +1,17 @@
+Topic,Sub-Topics,Projects,Status
+Introduction to SQL Server & Basic Queries,"- Installing SQL Server & SSMS 
+ - Creating Databases & Tables 
+ - Basic SQL Queries (SELECT, INSERT, UPDATE, DELETE) 
+ - Data Types & Constraints",,Yet to Start
+"Joins, Indexing & Query Optimization","- Inner, Outer, Cross Joins 
+ - Subqueries & Common Table Expressions (CTEs) 
+ - Indexing Strategies (Clustered vs. Non-Clustered) 
+ - Performance Tuning with Execution Plans",,Yet to Start
+"Stored Procedures, Functions & Triggers","- Writing Stored Procedures 
+ - User-Defined Functions (UDFs) 
+ - Automating Tasks with Triggers 
+ - Transactions & Error Handling",,Yet to Start
+Database Administration & Security,"- Backup & Restore Strategies 
+ - User Roles & Permissions 
+ - SQL Server Agent for Job Scheduling 
+ - Replication & High Availability",,Yet to Start

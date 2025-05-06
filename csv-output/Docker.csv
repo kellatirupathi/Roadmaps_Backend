@@ -1,0 +1,36 @@
+Topics,Sub-topics,Project/App to Build,Status
+Introduction to Docker,"• What is Docker? 
+ • Containers vs VMs 
+ • Installing Docker 
+ • Docker architecture","Hello World container with different base images
+
+Containerize a simple React component or Express route from an existing MERN project using different base images (node:alpine vs node:slim)",Yet to Start
+Docker CLI & Fundamentals,"• Basic Docker commands 
+ • Images and Containers 
+ • Container lifecycle","Simple Web Server (Nginx) 
+Dockerized To-Do List App
+
+Dockerize the Express.js backend of a MERN application with proper logging and container management",Yet to Start
+Working with Docker Images,"• Dockerfile syntax 
+ • Building images 
+ • Image layers & caching 
+ • Image management","
+Create optimized Dockerfiles for both React frontend and Node.js backend with proper caching strategies",Yet to Start
+Container Management,"• Running containers 
+ • Volumes & persistence 
+ • Resource constraints",Containerize MongoDB with proper volume persistence and implement health checks for all MERN components ,Yet to Start
+Container Networking,"• Networking basics 
+ • Inter-container communication",,Yet to Start
+Docker Compose,"• Compose file syntax 
+ • Multi-container setup 
+ • Networks & env variables","Weather App 
+E-commerce App (frontend + backend + DB)",Yet to Start
+Orchestration & Optimization,"• Service discovery 
+ • Load balancing 
+ • Multi-stage builds 
+ • Performance tuning",Implement multi-stage builds for React frontend and optimize Node.js backend for production deployment,Yet to Start
+Security & Best Practices,"• Image size reduction 
+ • Build caching 
+ • Security guidelines",Secure a MERN application's Docker setup with proper user permissions and secret handling,Yet to Start
+Hands-on Projects,"• Personal projects 
+ • Practical labs",Set up a complete CI/CD pipeline for a MERN application with automated builds and testing,Yet to Start

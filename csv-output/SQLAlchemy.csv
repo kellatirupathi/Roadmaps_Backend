@@ -1,0 +1,19 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Core Concepts,"- What is SQLAlchemy?
+- Installing SQLAlchemy
+- SQLAlchemy Core vs ORM
+- Creating Engine & Connection
+- Executing Raw SQL
+- Table Metadata",,Yet to Start
+ORM Modeling & CRUD Operations,"- Declaring Models with declarative_base
+- Mapping Tables to Python Classes
+- Inserting, Reading, Updating, Deleting rows using ORM methods",,Yet to Start
+Relationships & Querying,"- One-to-One, One-to-Many, Many-to-Many relationships
+- Foreign Keys
+- Joining tables
+- Using session.query() with filters, joins, aggregates",,Yet to Start
+Integration & Advanced Features,"- Integrating with Flask/FastAPI
+- Migrations with Alembic
+- Lazy loading vs Eager loading
+- Transactions & Rollback
+- Connection Pooling",,Yet to Start

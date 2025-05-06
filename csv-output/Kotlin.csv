@@ -1,0 +1,20 @@
+Topic,Sub-Topics,Projects,Status
+Kotlin Basics & Syntax,"- Introduction to Kotlin and its use-cases
+- Setting up Kotlin (IDE: IntelliJ or Android Studio)
+- Variables and Data Types
+- Conditionals and Loops
+- Functions and String Templates",,Yet to Start
+Object-Oriented Programming,"- Classes and Objects
+- Constructors and init block
+- Inheritance, Abstract Classes, and Interfaces
+- Visibility Modifiers",,Yet to Start
+Collections and Functional Programming,"- Lists, Sets, Maps
+- Mutable vs Immutable collections
+- Lambdas, map, filter, forEach, reduce, let, apply, run",,Yet to Start
+Exception Handling & Coroutines,"- Try-Catch blocks
+- Custom exceptions
+- Introduction to Coroutines
+- Launching background tasks using launch, async, delay",,Yet to Start
+"File Handling, API & Android Intro","- Reading/Writing files in Kotlin
+- Calling REST APIs with HttpUrlConnection or Ktor
+- Intro to Android using Kotlin (Activity, Intent)",,Yet to Start

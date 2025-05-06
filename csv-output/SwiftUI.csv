@@ -1,0 +1,18 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & SwiftUI Basics,"- What is SwiftUI and how it compares to UIKit
+- Setting up Xcode & SwiftUI project
+- Understanding @State, @Binding, and basic data flow
+- Views: Text, Image, Button, VStack, HStack
+- Live Previews",,Yet to Start
+"Layouts, Lists & Navigation","- Building complex UIs with ZStack, ScrollView, Spacer, Divider
+- Using List and ForEach
+- NavigationView and NavigationLink
+- View Modifiers and Custom Components",,Yet to Start
+State Management & Data Flow,"- Advanced property wrappers: @ObservedObject, @EnvironmentObject, @Published
+- MVVM Pattern with SwiftUI
+- Two-way binding and form validation
+- Animations and Transitions",,Yet to Start
+Persistent Storage & API Integration,"- Saving data using UserDefaults and CoreData basics
+- Fetching data using URLSession
+- Handling async operations with @MainActor, Task, async/await
+- Error handling",,Yet to Start

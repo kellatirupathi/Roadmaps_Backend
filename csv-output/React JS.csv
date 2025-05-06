@@ -1,0 +1,31 @@
+Topics,Sub-topics,Project/App to Build,Status
+Components & JSX Basics,"Class vs Functional Components
+JSX
+setState() Syntax (Object & Callback)
+Handling Events
+Boolean/Number State
+Conditional Rendering (ternary/if-else)","Build a simple Counter & Toggle app (Boolean state, button handling, conditional render)",Yet to Start
+Working With Lists,"Rendering Static Lists
+List with Item-specific State (FAQs, Flashcards)
+List State Add/Delete/Update (Contacts/Todo/Favorites)
+Minimal State Design Patterns",Build a Contacts Manager with Add/Delete/Favorite toggle & Flashcard-style FAQ viewer,Yet to Start
+Component Communication,"Props Drilling
+Callback Props with Args
+Filtering List via ActiveItemId (Tabs, Gallery)
+Controlled Components (Input, Checkbox, Radio)",Build a Gallery App with Tabs navigation and filter + dynamic list rendering,Yet to Start
+Component Lifecycle & State,"Lifecycle Methods (constructor, render, componentDidMount, componentWillUnmount)
+API Call with setState Updater
+API Status Rendering (Success, Failure, Loading)",Build a GitHub Repos Viewer (based on selected username with loader & error state views),Yet to Start
+"Routing, Forms & API Calls","React Router Basics
+Path Params
+Match Props
+Form Submit with Validation
+Field-Level Validation
+GET/POST API calls using Fetch
+Handling API Errors","Build a Blog Post Submit App with Routing (Home, Post, Detail) and form validations",Yet to Start
+"Auth, Context & Styling","Login/Logout Flow (history.push/replace)
+Store JWT with js-cookie
+Plain Context
+Context across Routes
+Styled Components (Dynamic)
+React Icons","Build an Authenticated Dashboard with Protected Routes, JWT Cookies & Styled UI          ",Yet to Start

@@ -1,0 +1,29 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to Embedded Systems,"- What is Embedded System?
+- Microcontrollers vs Microprocessors
+- Real-time Systems
+- Common Embedded Architectures
+- Use Cases & Job Roles",,Yet to Start
+Microcontroller Programming,"- Introduction to Microcontrollers (AVR, ARM, STM32)
+- Register vs Memory Mapped I/O
+- GPIO basics
+- Blinking LED with C
+- Toolchain (AVR-GCC/Keil)",,Yet to Start
+"Sensors, Inputs & Interfacing","- Digital vs Analog Inputs
+- Interfacing sensors (IR, Ultrasonic, Temp)
+- ADC basics
+- Interrupts & Polling
+- Debouncing techniques",,Yet to Start
+Communication Protocols,"- UART, I2C, SPI
+- Serial Communication in practice
+- Data Transfer between Microcontroller & PC
+- Reading sensor data via UART",,Yet to Start
+RTOS & Scheduling,"- Bare Metal vs RTOS
+- Task Creation
+- Scheduling Algorithms
+- Priority Inversion
+- FreeRTOS Setup & Examples",,Yet to Start
+Capstone Project & Debugging,"- Integrating Inputs, Outputs, Communication
+- Using Logic Analyzers/Oscilloscopes
+- Debugging Embedded Code
+- Power Management & Optimization",,Yet to Start

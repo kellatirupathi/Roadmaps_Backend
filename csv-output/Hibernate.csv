@@ -1,0 +1,5 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to Hibernate,"ORM Basics, Hibernate vs JDBC, Setup with MySQL, Annotations, Configuration Files",,Yet to Start
+Hibernate Core Concepts,"Entity Lifecycle, Session & SessionFactory, Transactions, HQL, Named Queries",,Yet to Start
+Advanced Hibernate Features,"Lazy vs Eager Loading, Caching (First & Second Level), Fetch Strategies, Criteria API",,Yet to Start
+Integration & Best Practices,"Spring Boot Integration, Performance Tuning, Testing Hibernate Apps, Exception Handling, Deployment",,Yet to Start

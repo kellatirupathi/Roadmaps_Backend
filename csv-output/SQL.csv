@@ -1,0 +1,7 @@
+Topics,Sub-topics,Project/App to Build,Status
+Database & Relational Foundations,"What is a Database, DBMS vs RDBMS, Relational vs Non-Relational, ER Models, One-to-One, Many-to-One, Many-to-Many",Model Amazon-like Product-Customer ERD (ER Diagram + Schema),Yet to Start
+Table Operations & Basic Queries,"Creating Table, Inserting Data, Retrieving Data, Updating Table, Deleting Table, Drop Table, Primary Key, Foreign Key","Create & Populate Tables for Users, Products, Orders",Yet to Start
+"Filtering, Logic & Comparison","WHERE Clause, LIKE, IN, BETWEEN, AND, OR, NOT, Precedence, Multiple Logical Operators, ORDER BY, LIMIT, OFFSET",Query Builder Tool for Filtering Orders (CLI or SQL Script),Yet to Start
+Aggregation & Grouping,"SUM, AVG, MIN, MAX, COUNT, Alias, GROUP BY, GROUP BY with multiple columns, HAVING, Expressions in SELECT/WHERE",Sales Summary Dashboard Using GROUP BY + Aggregates,Yet to Start
+Joins & Relationships,"Natural Join, Inner Join, Left Join, Right Join, Full Join, Cross Join, Self Join, Join on Multiple Tables",Multi-table Product-User Order Tracker with Complex Joins,Yet to Start
+Advanced Queries & Views,"CASE Clause, STRFTIME, CAST, Arithmetic Functions, Subqueries, UNION, INTERSECT, MINUS, Views, Deleting Views",Build a Customer Insights View + Write Subqueries for Metrics,Yet to Start

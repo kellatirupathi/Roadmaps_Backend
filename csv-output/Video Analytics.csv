@@ -1,0 +1,6 @@
+Topic,Sub-Topic,Projects,Status
+Video Processing Foundations,"Video capture with OpenCV, Frame extraction & manipulation, Drawing overlays, FPS & buffering, Working with webcams & video files",,Yet to Start
+Object Detection in Videos,"Pre-trained YOLOv8 or SSD models, Using Ultralytics or OpenCV DNN, Frame-by-frame inference, Bounding boxes, FPS optimization",,Yet to Start
+Object Tracking Techniques,"Centroid Tracking, SORT/Deep SORT algorithms, Multi-object tracking, Track ID assignment, Handling occlusion",,Yet to Start
+Working with FFmpeg & Video Pipelines,"Intro to FFmpeg, Video transcoding, Frame rate tuning, Muxing/demuxing streams, Creating video clips programmatically",,Yet to Start
+Deployment & Stream Analytics Intro,"Real-time video streaming with RTSP, Basics of NVIDIA DeepStream or OpenCV + Flask, Serving processed video, Exporting insights/logs",,Yet to Start

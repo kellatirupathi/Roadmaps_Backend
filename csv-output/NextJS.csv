@@ -1,0 +1,34 @@
+Topic,Sub-Topic,Projects,Status
+Introduction to NestJS,"What is NestJS? Why use it? NestJS Architecture
+Setting up the Environment",Set up a basic project structure and run the app,Yet to Start
+Controllers & Routes,"Creating Controllers
+Defining Routes
+Route Parameters
+Request Payloads","Build a simple API with 2-3 routes (e.g., /users, /posts)",Yet to Start
+Providers & Services,"Understanding Providers
+Creating Services
+Dependency Injection",Refactor the Day 2 API to use services for business logic,Yet to Start
+"CRUD Operations, Error Handling & Validation","Implementing Create, Read, Update, Delete
+Exception Filters
+Pipes
+Basic Validation","Add CRUD functionality to the Blog API
+Add error handling and validation to the Blog API",Yet to Start
+Modules & Dependency Injection,"Understanding Modules
+Creating Feature Modules
+Dependency Injection",Refactor the Blog API into modules,Yet to Start
+Middleware and JWT Authentication,"Creating Middleware
+Using Middleware for Request Processing
+Introduction to JWT
+Implementing JWT Authentication","Add middleware to the Blog API (e.g., logging requests)
+Add JWT authentication to the Blog API",Yet to Start
+Database Integration,"Introduction to TypeORM
+Setting up TypeORM with NestJS
+Creating Entities
+Defining Relationships (One-to-One
+One-to-Many)","Configure TypeORM in the Task Management App
+Define entities for the Task Management App",Yet to Start
+DTOs & Validation,"Introduction to DTOs
+Validation with Class Validator",Add DTOs and validation to the Task Management App,Yet to Start
+Testing Basics,"Introduction to Jest
+Writing Unit Tests",Write unit tests for the Task Management App,Yet to Start
+Debugging and Deployment,Debugging NestJS Applications and Deploying,"Debugging the App, test the deployed app",Yet to Start

@@ -1,0 +1,19 @@
+Topic,Sub-Topics,Projects,Status
+Firestore Basics & Setup,"- What is Firestore?
+- Firestore vs Realtime Database
+- Setting up Firebase project
+- Adding Firestore to Web/React App
+- Data Model: Collections, Documents",,Yet to Start
+CRUD Operations & Data Modeling,"- Firestore SDKs & Methods
+- set(), add(), update(), delete()
+- Nested data & sub-collections
+- Auto ID vs custom document IDs",,Yet to Start
+Queries & Real-time Updates,"- Simple & compound queries
+- Filtering, ordering, and pagination
+- Real-time listeners with onSnapshot()
+- Security considerations in queries",,Yet to Start
+Security Rules & Advanced Features,"- Firestore Rules: read, write, get, list
+- Role-based access control
+- Batched writes
+- Transactions
+- Indexing & performance tips",,Yet to Start

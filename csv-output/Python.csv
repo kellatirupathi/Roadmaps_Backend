@@ -1,0 +1,9 @@
+Topic,Sub-Topic,Projects,Status
+Python Basics & Setup,Installing Python Understanding syntax Data types Operators Input/Output,,Yet to Start
+Control Flow and Functions,Conditional statements (if/else) Loops (for/while) Writing functions Parameters and return values Variable scope,,Yet to Start
+"Data Structures – Lists, Tuples, and Dictionaries",Lists Tuples Dictionaries List comprehensions Iterating over data structures,,Yet to Start
+Advanced Data Structures – Sets & File I/O,Sets File input/output (reading and writing files) CSV and JSON handling Context managers,,Yet to Start
+Object-Oriented Programming (OOP) – Part 1,Classes and objects Attributes and methods Encapsulation Creating simple classes,,Yet to Start
+Object-Oriented Programming (OOP) – Part 2,Inheritance Method overriding Polymorphism Abstraction and interfaces,,Yet to Start
+Error Handling and Debugging,Exception handling Raising exceptions Debugging tools (pdb) Unit testing with unittest,,Yet to Start
+Final Project and Best Practices,Python best practices (PEP 8) Code optimization Version control with Git Deploying Python apps,,Yet to Start

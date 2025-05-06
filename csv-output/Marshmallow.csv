@@ -1,0 +1,13 @@
+Topic,Sub-Topics,Projects,Status
+Introduction & Basic Schemas,"- What is Marshmallow?
+- Serialization vs Deserialization
+- Defining a Schema with Schema and fields
+- Using .dump() and .load()",,Yet to Start
+Field Validation & Nested Schemas,"- Built-in field validation (required, validate, missing, allow_none)
+- Custom validators
+- Nested Schemas
+- @validates decorators",,Yet to Start
+Integration with Flask & Advanced Use,"- Using Marshmallow with Flask (Flask-Marshmallow)
+- Request parsing & response formatting
+- Error handling
+- ModelSchema with SQLAlchemy",,Yet to Start

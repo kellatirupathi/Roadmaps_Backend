@@ -1,0 +1,25 @@
+Topic,Sub-Topic,Projects,Status
+Django Setup & Fundamentals,"OOPs in Python, Exception Handling in Python
+IDE selection (VSCode/PyCharm)
+Virtual Environment and Django installation
+Creating project/app and running server
+Understanding settings.py & urls.py",,Yet to Start
+Models & Admin Integration,"Creating models from reference SQL schema
+makemigrations & migrate
+Admin panel registration
+Basic Django shell usage",,Yet to Start
+ORM & Views,"Django ORM basics (CRUD)
+Writing functions like create_post/get_post
+Function-based views
+HttpRequest & HttpResponse",,Yet to Start
+URL Routing & Postman,"Registering views in urls.py
+Using Postman to test APIs
+Debugging via shell & API responses",,Yet to Start
+Django REST Framework Intro,"CRUD using DRF
+Response formats
+Use HTTP Response Codes to Indicate Status
+Using DRF with Postman",,Yet to Start
+Authentication & Authorisation,Authentication & Authorization with OAuth 2.0,,Yet to Start
+Testing & Best Practices,"Setting up pytest with Django
+Writing simple tests for views/models
+Debug tips",,Yet to Start

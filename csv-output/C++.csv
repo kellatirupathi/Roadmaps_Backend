@@ -1,0 +1,9 @@
+Topic,Sub-Topic,Projects,Status
+C++ Basics & Setup,Installing C++ Understanding syntax Data types Operators Input/Output,,Yet to Start
+Control Flow and Functions,Conditional statements (if/else) Loops (for/while) Functions Function overloading,,Yet to Start
+"Arrays, Pointers, and References",Arrays Pointers References Pointer arithmetic Reference variables,,Yet to Start
+Object-Oriented Programming (OOP) – Part 1,Classes and Objects Constructors Destructors Access specifiers Member functions,,Yet to Start
+Object-Oriented Programming (OOP) – Part 2,Inheritance Polymorphism Abstraction Operator overloading,,Yet to Start
+Dynamic Memory Management,new/delete operators Dynamic arrays Memory leaks Smart pointers,,Yet to Start
+File Handling and Exception Handling,File input/output Exception handling with try/catch Custom exceptions,,Yet to Start
+Final Project and Best Practices,C++ best practices Code optimization Version control with Git Deploying C++ apps,,Yet to Start
