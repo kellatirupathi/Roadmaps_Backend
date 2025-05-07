@@ -11,13 +11,6 @@ const GITHUB_USERNAME = process.env.GITHUB_USERNAME || 'niat-web';
 const GITHUB_REPO = process.env.GITHUB_REPO || 'Roadmaps';
 const GITHUB_BRANCH = process.env.GITHUB_BRANCH || 'main';
 
-// Headers for GitHub API requests
-const headers = {
-  'Authorization': `token ${GITHUB_TOKEN}`,
-  'Accept': 'application/vnd.github.v3+json',
-  'Content-Type': 'application/json'
-};
-
 // Upload roadmap to GitHub
 export const uploadRoadmap = async (req, res) => {
   try {
@@ -29,11 +22,30 @@ export const uploadRoadmap = async (req, res) => {
         error: 'Filename and content are required'
       });
     }
+
+    // Validate GitHub token exists
+    if (!GITHUB_TOKEN) {
+      console.error('GitHub token is missing');
+      return res.status(500).json({
+        success: false,
+        error: 'GitHub authentication token is missing. Please check your environment variables.'
+      });
+    }
+    
+    // Headers for GitHub API requests with fresh token
+    const headers = {
+      'Authorization': `token ${GITHUB_TOKEN}`,
+      'Accept': 'application/vnd.github.v3+json',
+      'Content-Type': 'application/json'
+    };
     
     // Check if file already exists
     let sha;
     try {
-      const response = await fetch(`${GITHUB_API_URL}/repos/${GITHUB_USERNAME}/${GITHUB_REPO}/contents/${filename}`, {
+      const checkFileUrl = `${GITHUB_API_URL}/repos/${GITHUB_USERNAME}/${GITHUB_REPO}/contents/${filename}`;
+      console.log(`Checking if file exists at: ${checkFileUrl}`);
+      
+      const response = await fetch(checkFileUrl, {
         method: 'GET',
         headers
       });
@@ -41,9 +53,10 @@ export const uploadRoadmap = async (req, res) => {
       if (response.status === 200) {
         const data = await response.json();
         sha = data.sha;
+        console.log(`File exists, got SHA: ${sha}`);
       }
     } catch (error) {
-      // File doesn't exist, which is fine
+      console.log('File does not exist yet, creating new file');
     }
     
     // Base64 encode the content
@@ -61,21 +74,28 @@ export const uploadRoadmap = async (req, res) => {
       requestBody.sha = sha;
     }
     
+    // Log upload attempt
+    const uploadUrl = `${GITHUB_API_URL}/repos/${GITHUB_USERNAME}/${GITHUB_REPO}/contents/${filename}`;
+    console.log(`Uploading to: ${uploadUrl}`);
+    
     // Upload or update the file
-    const uploadResponse = await fetch(`${GITHUB_API_URL}/repos/${GITHUB_USERNAME}/${GITHUB_REPO}/contents/${filename}`, {
+    const uploadResponse = await fetch(uploadUrl, {
       method: 'PUT',
       headers,
       body: JSON.stringify(requestBody)
     });
     
+    // Handle response
     if (uploadResponse.status !== 201 && uploadResponse.status !== 200) {
       const errorData = await uploadResponse.json();
+      console.error('GitHub API error details:', errorData);
       throw new Error(`Failed to upload file: ${errorData.message}`);
     }
     
     const responseData = await uploadResponse.json();
+    console.log('Upload successful, got response:', responseData.content?.html_url);
     
-    // Construct the published URL
+    // Construct the published URL - use GitHub Pages URL structure
     const publishedUrl = `https://${GITHUB_USERNAME}.github.io/${GITHUB_REPO}/${filename}`;
     
     res.status(201).json({
@@ -87,7 +107,7 @@ export const uploadRoadmap = async (req, res) => {
     console.error('GitHub Upload Error:', error);
     res.status(500).json({
       success: false,
-      error: 'Failed to upload roadmap to GitHub'
+      error: error.message || 'Failed to upload roadmap to GitHub'
     });
   }
 };
@@ -95,14 +115,34 @@ export const uploadRoadmap = async (req, res) => {
 // Get all published roadmaps
 export const getPublishedRoadmaps = async (req, res) => {
   try {
+    // Validate GitHub token exists
+    if (!GITHUB_TOKEN) {
+      console.error('GitHub token is missing');
+      return res.status(500).json({
+        success: false,
+        error: 'GitHub authentication token is missing. Please check your environment variables.'
+      });
+    }
+    
+    // Headers for GitHub API requests with fresh token
+    const headers = {
+      'Authorization': `token ${GITHUB_TOKEN}`,
+      'Accept': 'application/vnd.github.v3+json',
+      'Content-Type': 'application/json'
+    };
+    
     // Get the contents of the repository
-    const response = await fetch(`${GITHUB_API_URL}/repos/${GITHUB_USERNAME}/${GITHUB_REPO}/contents/`, {
+    const repoUrl = `${GITHUB_API_URL}/repos/${GITHUB_USERNAME}/${GITHUB_REPO}/contents/`;
+    console.log(`Fetching repository contents from: ${repoUrl}`);
+    
+    const response = await fetch(repoUrl, {
       method: 'GET',
       headers
     });
     
     if (response.status !== 200) {
       const errorData = await response.json();
+      console.error('GitHub API error details:', errorData);
       throw new Error(`Failed to get repository contents: ${errorData.message}`);
     }
     
@@ -131,7 +171,7 @@ export const getPublishedRoadmaps = async (req, res) => {
     console.error('GitHub API Error:', error);
     res.status(500).json({
       success: false,
-      error: 'Failed to fetch published roadmaps'
+      error: error.message || 'Failed to fetch published roadmaps'
     });
   }
 };
